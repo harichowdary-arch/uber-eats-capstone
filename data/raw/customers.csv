@@ -1,0 +1,301 @@
+customer_id,age,gender,city,signup_date
+CUST0001,22,Male,Pune,2023-01-06
+CUST0002,55,Prefer not to say,Pune,2023-02-25
+CUST0003,49,Female,Pune,2023-10-12
+CUST0004,39,Prefer not to say,Hyderabad,2026-02-23
+CUST0005,38,Non-binary,Mumbai,2024-08-19
+CUST0006,59,Female,Chennai,2025-07-11
+CUST0007,22,Male,Bengaluru,2024-06-19
+CUST0008,51,Non-binary,Chennai,2023-08-14
+CUST0009,27,Male,Mumbai,2024-04-27
+CUST0010,22,Female,Mumbai,2023-04-30
+CUST0011,43,Non-binary,Mumbai,2025-09-28
+CUST0012,64,Non-binary,Chennai,2023-08-27
+CUST0013,53,Female,Pune,2024-05-04
+CUST0014,54,Male,Bengaluru,2026-06-28
+CUST0015,52,Female,Pune,2025-02-08
+CUST0016,55,Non-binary,Pune,2024-08-19
+CUST0017,42,Non-binary,Bengaluru,2024-12-06
+CUST0018,24,Non-binary,Bengaluru,2025-10-16
+CUST0019,58,Prefer not to say,Hyderabad,2023-11-27
+CUST0020,39,Prefer not to say,Hyderabad,2025-04-07
+CUST0021,42,Male,Chennai,2026-02-08
+CUST0022,35,Female,Chennai,2025-01-14
+CUST0023,26,Non-binary,Hyderabad,2024-08-03
+CUST0024,62,Prefer not to say,Chennai,2023-07-08
+CUST0025,55,Prefer not to say,Pune,2023-11-19
+CUST0026,48,Female,Bengaluru,2026-05-14
+CUST0027,37,Female,Bengaluru,2024-12-04
+CUST0028,57,Female,Bengaluru,2024-01-27
+CUST0029,44,Female,Chennai,2024-06-27
+CUST0030,39,Non-binary,Bengaluru,2025-01-21
+CUST0031,39,Non-binary,Pune,2024-11-29
+CUST0032,28,Male,Bengaluru,2025-06-28
+CUST0033,22,Male,Chennai,2023-12-01
+CUST0034,44,Prefer not to say,Bengaluru,2025-04-24
+CUST0035,60,Male,Hyderabad,2024-07-29
+CUST0036,21,Prefer not to say,Pune,2026-05-07
+CUST0037,59,Prefer not to say,Bengaluru,2023-07-25
+CUST0038,57,Male,Bengaluru,2023-07-12
+CUST0039,31,Female,Pune,2024-08-23
+CUST0040,48,Prefer not to say,Mumbai,2024-10-22
+CUST0041,25,Non-binary,Pune,2025-06-17
+CUST0042,54,Male,Mumbai,2024-06-09
+CUST0043,51,Non-binary,Mumbai,2026-04-02
+CUST0044,35,Non-binary,Chennai,2024-09-08
+CUST0045,21,Prefer not to say,Pune,2023-06-18
+CUST0046,64,Male,Bengaluru,2023-06-04
+CUST0047,39,Prefer not to say,Chennai,2026-06-19
+CUST0048,60,Prefer not to say,Chennai,2023-06-24
+CUST0049,50,Female,Mumbai,2026-05-17
+CUST0050,55,Female,Mumbai,2023-12-28
+CUST0051,54,Non-binary,Chennai,2023-05-02
+CUST0052,27,Female,Pune,2024-02-01
+CUST0053,35,Male,Bengaluru,2025-03-10
+CUST0054,40,Male,Mumbai,2024-07-10
+CUST0055,41,Prefer not to say,Chennai,2025-10-18
+CUST0056,20,Prefer not to say,Chennai,2025-03-05
+CUST0057,44,Female,Pune,2024-06-05
+CUST0058,25,Prefer not to say,Pune,2025-04-05
+CUST0059,53,Female,Hyderabad,2026-06-16
+CUST0060,50,Non-binary,Bengaluru,2024-06-19
+CUST0061,62,Prefer not to say,Hyderabad,2023-07-19
+CUST0062,53,Prefer not to say,Pune,2024-06-15
+CUST0063,35,Female,Hyderabad,2025-12-28
+CUST0064,64,Prefer not to say,Bengaluru,2023-10-10
+CUST0065,37,Female,Chennai,2026-05-18
+CUST0066,33,Non-binary,Pune,2025-02-03
+CUST0067,61,Male,Chennai,2025-02-21
+CUST0068,35,Male,Mumbai,2024-02-17
+CUST0069,21,Female,Mumbai,2026-04-11
+CUST0070,40,Prefer not to say,Hyderabad,2023-02-16
+CUST0071,56,Male,Mumbai,2024-01-24
+CUST0072,27,Non-binary,Pune,2024-06-27
+CUST0073,40,Male,Pune,2024-09-12
+CUST0074,24,Male,Hyderabad,2024-09-08
+CUST0075,50,Prefer not to say,Pune,2023-07-12
+CUST0076,40,Female,Pune,2023-10-21
+CUST0077,33,Non-binary,Chennai,2023-05-04
+CUST0078,28,Non-binary,Hyderabad,2025-01-14
+CUST0079,45,Male,Chennai,2024-04-01
+CUST0080,50,Male,Mumbai,2025-01-05
+CUST0081,63,Female,Pune,2025-02-05
+CUST0082,38,Prefer not to say,Hyderabad,2025-07-01
+CUST0083,25,Prefer not to say,Mumbai,2024-12-12
+CUST0084,57,Female,Mumbai,2025-04-22
+CUST0085,48,Female,Hyderabad,2025-02-02
+CUST0086,51,Female,Mumbai,2025-04-28
+CUST0087,22,Female,Chennai,2025-03-12
+CUST0088,32,Prefer not to say,Chennai,2024-02-16
+CUST0089,54,Prefer not to say,Chennai,2023-11-17
+CUST0090,57,Female,Pune,2025-10-20
+CUST0091,38,Non-binary,Mumbai,2024-03-21
+CUST0092,56,Female,Pune,2024-12-14
+CUST0093,58,Male,Mumbai,2023-09-14
+CUST0094,36,Non-binary,Mumbai,2024-07-14
+CUST0095,61,Non-binary,Hyderabad,2024-11-19
+CUST0096,31,Prefer not to say,Bengaluru,2025-03-24
+CUST0097,29,Female,Pune,2024-11-15
+CUST0098,50,Female,Chennai,2024-04-13
+CUST0099,48,Male,Hyderabad,2026-06-04
+CUST0100,24,Male,Hyderabad,2024-10-28
+CUST0101,57,Prefer not to say,Chennai,2025-11-16
+CUST0102,27,Prefer not to say,Pune,2025-08-15
+CUST0103,56,Male,Hyderabad,2024-12-26
+CUST0104,18,Prefer not to say,Hyderabad,2026-02-26
+CUST0105,56,Male,Hyderabad,2023-06-16
+CUST0106,55,Non-binary,Chennai,2026-04-12
+CUST0107,55,Male,Hyderabad,2026-01-10
+CUST0108,49,Female,Chennai,2024-10-16
+CUST0109,40,Prefer not to say,Chennai,2025-08-11
+CUST0110,51,Female,Chennai,2024-11-07
+CUST0111,31,Female,Pune,2023-12-16
+CUST0112,55,Female,Chennai,2025-11-05
+CUST0113,44,Male,Pune,2023-11-16
+CUST0114,40,Female,Pune,2024-02-13
+CUST0115,42,Female,Mumbai,2024-11-06
+CUST0116,45,Non-binary,Pune,2025-12-24
+CUST0117,19,Prefer not to say,Chennai,2024-05-14
+CUST0118,24,Female,Chennai,2024-10-04
+CUST0119,29,Male,Bengaluru,2023-02-24
+CUST0120,23,Non-binary,Chennai,2023-05-31
+CUST0121,39,Prefer not to say,Hyderabad,2023-03-14
+CUST0122,50,Non-binary,Mumbai,2023-04-04
+CUST0123,49,Prefer not to say,Mumbai,2026-02-03
+CUST0124,40,Non-binary,Hyderabad,2025-12-30
+CUST0125,59,Male,Pune,2025-12-04
+CUST0126,45,Female,Hyderabad,2023-03-14
+CUST0127,21,Prefer not to say,Pune,2023-04-11
+CUST0128,54,Prefer not to say,Hyderabad,2023-12-31
+CUST0129,45,Female,Chennai,2025-01-04
+CUST0130,48,Non-binary,Pune,2024-03-10
+CUST0131,45,Female,Pune,2024-09-25
+CUST0132,44,Non-binary,Chennai,2023-08-13
+CUST0133,22,Prefer not to say,Mumbai,2025-08-08
+CUST0134,44,Female,Pune,2024-02-13
+CUST0135,56,Male,Bengaluru,2023-03-28
+CUST0136,32,Female,Pune,2025-08-23
+CUST0137,46,Non-binary,Pune,2026-03-19
+CUST0138,19,Prefer not to say,Bengaluru,2023-01-20
+CUST0139,34,Female,Pune,2024-07-21
+CUST0140,38,Male,Mumbai,2025-12-11
+CUST0141,65,Prefer not to say,Mumbai,2025-07-07
+CUST0142,28,Male,Pune,2026-01-18
+CUST0143,31,Female,Pune,2024-06-23
+CUST0144,37,Male,Bengaluru,2024-04-28
+CUST0145,65,Non-binary,Pune,2025-07-10
+CUST0146,58,Non-binary,Bengaluru,2023-07-19
+CUST0147,19,Male,Chennai,2023-11-08
+CUST0148,29,Prefer not to say,Bengaluru,2025-02-20
+CUST0149,57,Non-binary,Bengaluru,2025-05-18
+CUST0150,20,Male,Hyderabad,2023-06-05
+CUST0151,59,Prefer not to say,Mumbai,2024-10-22
+CUST0152,31,Prefer not to say,Hyderabad,2024-04-19
+CUST0153,62,Male,Hyderabad,2024-10-14
+CUST0154,32,Female,Mumbai,2026-05-30
+CUST0155,38,Non-binary,Chennai,2023-04-10
+CUST0156,49,Non-binary,Chennai,2026-07-18
+CUST0157,24,Female,Pune,2024-08-07
+CUST0158,44,Non-binary,Bengaluru,2025-09-30
+CUST0159,42,Prefer not to say,Hyderabad,2024-07-05
+CUST0160,55,Female,Pune,2024-02-09
+CUST0161,65,Non-binary,Hyderabad,2025-09-28
+CUST0162,49,Female,Chennai,2025-06-12
+CUST0163,37,Non-binary,Mumbai,2023-07-07
+CUST0164,37,Male,Mumbai,2025-07-06
+CUST0165,38,Female,Bengaluru,2025-09-06
+CUST0166,57,Prefer not to say,Pune,2024-05-19
+CUST0167,33,Female,Pune,2026-04-18
+CUST0168,26,Non-binary,Chennai,2025-04-13
+CUST0169,34,Female,Hyderabad,2024-03-09
+CUST0170,19,Prefer not to say,Bengaluru,2023-01-14
+CUST0171,23,Non-binary,Pune,2025-05-27
+CUST0172,22,Prefer not to say,Mumbai,2023-09-29
+CUST0173,55,Male,Hyderabad,2025-09-10
+CUST0174,52,Male,Pune,2024-11-13
+CUST0175,51,Non-binary,Mumbai,2024-08-29
+CUST0176,40,Prefer not to say,Mumbai,2023-08-01
+CUST0177,52,Prefer not to say,Chennai,2025-07-13
+CUST0178,25,Female,Hyderabad,2023-08-04
+CUST0179,61,Non-binary,Bengaluru,2024-06-27
+CUST0180,42,Female,Mumbai,2025-12-23
+CUST0181,63,Male,Mumbai,2026-04-11
+CUST0182,25,Prefer not to say,Pune,2026-07-09
+CUST0183,41,Male,Hyderabad,2026-05-30
+CUST0184,51,Prefer not to say,Hyderabad,2024-12-23
+CUST0185,41,Male,Chennai,2023-09-18
+CUST0186,39,Female,Chennai,2025-12-26
+CUST0187,25,Male,Hyderabad,2025-11-08
+CUST0188,36,Non-binary,Pune,2026-07-11
+CUST0189,29,Prefer not to say,Chennai,2025-04-26
+CUST0190,32,Non-binary,Hyderabad,2023-07-04
+CUST0191,50,Prefer not to say,Hyderabad,2024-10-15
+CUST0192,48,Prefer not to say,Chennai,2024-08-05
+CUST0193,47,Prefer not to say,Pune,2025-12-31
+CUST0194,35,Non-binary,Mumbai,2024-05-25
+CUST0195,64,Male,Chennai,2024-03-03
+CUST0196,22,Male,Bengaluru,2023-04-15
+CUST0197,34,Female,Mumbai,2025-12-22
+CUST0198,23,Male,Chennai,2025-09-08
+CUST0199,34,Prefer not to say,Bengaluru,2023-02-23
+CUST0200,64,Male,Chennai,2024-07-17
+CUST0201,35,Female,Hyderabad,2024-09-15
+CUST0202,61,Non-binary,Bengaluru,2024-09-02
+CUST0203,41,Prefer not to say,Chennai,2026-04-09
+CUST0204,51,Prefer not to say,Mumbai,2023-07-15
+CUST0205,39,Male,Pune,2024-02-03
+CUST0206,30,Male,Pune,2023-08-24
+CUST0207,54,Non-binary,Chennai,2023-11-14
+CUST0208,64,Female,Hyderabad,2026-03-25
+CUST0209,30,Male,Bengaluru,2026-05-07
+CUST0210,55,Female,Mumbai,2023-02-28
+CUST0211,30,Prefer not to say,Hyderabad,2025-04-01
+CUST0212,52,Non-binary,Mumbai,2023-10-30
+CUST0213,55,Prefer not to say,Pune,2023-09-08
+CUST0214,39,Prefer not to say,Bengaluru,2024-01-15
+CUST0215,53,Prefer not to say,Pune,2023-09-10
+CUST0216,31,Female,Mumbai,2024-09-29
+CUST0217,21,Prefer not to say,Hyderabad,2026-07-18
+CUST0218,22,Female,Hyderabad,2025-02-01
+CUST0219,39,Male,Pune,2025-07-29
+CUST0220,61,Non-binary,Mumbai,2024-10-03
+CUST0221,24,Male,Hyderabad,2023-01-19
+CUST0222,39,Female,Pune,2023-04-20
+CUST0223,51,Female,Hyderabad,2023-12-16
+CUST0224,27,Prefer not to say,Pune,2023-11-13
+CUST0225,52,Male,Pune,2025-12-28
+CUST0226,32,Male,Hyderabad,2026-01-01
+CUST0227,56,Prefer not to say,Pune,2026-01-15
+CUST0228,45,Female,Mumbai,2025-04-08
+CUST0229,44,Prefer not to say,Mumbai,2024-12-24
+CUST0230,26,Prefer not to say,Hyderabad,2025-04-23
+CUST0231,40,Non-binary,Bengaluru,2024-06-12
+CUST0232,59,Female,Bengaluru,2025-05-21
+CUST0233,18,Female,Chennai,2025-10-29
+CUST0234,54,Male,Hyderabad,2025-09-18
+CUST0235,41,Non-binary,Mumbai,2025-03-08
+CUST0236,52,Female,Pune,2023-03-17
+CUST0237,49,Male,Mumbai,2025-07-31
+CUST0238,38,Female,Hyderabad,2024-04-21
+CUST0239,32,Non-binary,Hyderabad,2025-08-24
+CUST0240,48,Female,Mumbai,2024-12-02
+CUST0241,24,Non-binary,Bengaluru,2026-02-19
+CUST0242,46,Female,Pune,2024-03-15
+CUST0243,22,Female,Mumbai,2026-04-25
+CUST0244,49,Female,Hyderabad,2026-01-02
+CUST0245,48,Prefer not to say,Hyderabad,2024-03-06
+CUST0246,22,Female,Hyderabad,2024-09-19
+CUST0247,54,Male,Hyderabad,2024-11-21
+CUST0248,37,Non-binary,Hyderabad,2025-09-26
+CUST0249,55,Non-binary,Mumbai,2025-06-14
+CUST0250,19,Non-binary,Pune,2026-01-12
+CUST0251,26,Prefer not to say,Mumbai,2024-04-25
+CUST0252,41,Male,Mumbai,2024-10-18
+CUST0253,27,Prefer not to say,Mumbai,2024-07-14
+CUST0254,33,Male,Bengaluru,2026-03-28
+CUST0255,49,Prefer not to say,Bengaluru,2024-02-01
+CUST0256,24,Non-binary,Mumbai,2025-02-02
+CUST0257,50,Non-binary,Bengaluru,2023-06-06
+CUST0258,22,Prefer not to say,Hyderabad,2026-01-10
+CUST0259,26,Prefer not to say,Pune,2024-05-14
+CUST0260,46,Prefer not to say,Mumbai,2024-03-18
+CUST0261,56,Non-binary,Mumbai,2025-01-27
+CUST0262,26,Female,Mumbai,2024-10-10
+CUST0263,32,Male,Hyderabad,2026-01-07
+CUST0264,62,Female,Pune,2024-11-21
+CUST0265,65,Prefer not to say,Mumbai,2024-11-03
+CUST0266,45,Female,Pune,2023-05-17
+CUST0267,39,Female,Mumbai,2023-01-29
+CUST0268,34,Female,Mumbai,2024-06-02
+CUST0269,47,Non-binary,Chennai,2026-07-21
+CUST0270,46,Non-binary,Hyderabad,2026-04-07
+CUST0271,32,Prefer not to say,Chennai,2025-03-28
+CUST0272,19,Male,Bengaluru,2025-03-31
+CUST0273,25,Male,Hyderabad,2024-05-23
+CUST0274,64,Female,Hyderabad,2023-08-19
+CUST0275,38,Female,Pune,2023-01-12
+CUST0276,41,Male,Chennai,2024-03-16
+CUST0277,40,Prefer not to say,Chennai,2024-02-16
+CUST0278,55,Non-binary,Pune,2023-09-07
+CUST0279,21,Prefer not to say,Chennai,2023-12-03
+CUST0280,21,Female,Pune,2023-02-02
+CUST0281,31,Female,Hyderabad,2025-03-01
+CUST0282,41,Prefer not to say,Mumbai,2026-04-20
+CUST0283,50,Female,Chennai,2025-06-17
+CUST0284,41,Female,Hyderabad,2024-08-05
+CUST0285,39,Male,Mumbai,2024-06-30
+CUST0286,63,Prefer not to say,Pune,2024-02-04
+CUST0287,25,Non-binary,Hyderabad,2023-07-05
+CUST0288,45,Female,Hyderabad,2025-02-17
+CUST0289,44,Prefer not to say,Hyderabad,2025-01-06
+CUST0290,40,Prefer not to say,Bengaluru,2023-01-10
+CUST0291,56,Prefer not to say,Hyderabad,2024-06-24
+CUST0292,30,Prefer not to say,Pune,2023-12-28
+CUST0293,63,Female,Chennai,2023-08-10
+CUST0294,33,Prefer not to say,Mumbai,2025-07-02
+CUST0295,44,Male,Pune,2024-11-14
+CUST0296,42,Prefer not to say,Pune,2025-04-03
+CUST0297,58,Non-binary,Chennai,2025-07-16
+CUST0298,39,Prefer not to say,Hyderabad,2026-06-30
+CUST0299,31,Non-binary,Hyderabad,2025-11-09
+CUST0300,19,Non-binary,Pune,2025-03-17
