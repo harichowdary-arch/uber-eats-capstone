@@ -1,0 +1,4 @@
+kmeans_cluster,total_orders,average_order_value,total_spending,ordering_frequency_per_month,average_rating_given,weekend_orders,late_night_orders,customer_count,share_percent,business_name
+0,4.63,498.14,2057.26,2.8,3.61,1.13,1.13,163,54.3,Occasional Budget Customers
+1,8.07,580.97,4155.7,3.74,3.7,2.34,2.67,128,42.7,Premium Frequent Diners
+2,1.33,471.42,593.02,33.63,4.26,0.67,0.22,9,3.0,Occasional Budget Customers

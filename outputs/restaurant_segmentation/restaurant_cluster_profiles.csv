@@ -1,0 +1,4 @@
+kmeans_cluster,total_orders,revenue,average_rating,average_prep_time,cancellation_rate,average_delivery_time,restaurant_count,share_percent,business_name
+0,33.09,14805.19,3.53,28.18,0.08,58.06,11,24.4,Operationally Slower Restaurants
+1,39.38,19056.5,3.86,15.14,0.08,45.47,21,46.7,Lower-Volume / Developing Restaurants
+2,46.85,23812.02,3.46,27.92,0.06,59.08,13,28.9,High-Volume Improvement Needed
