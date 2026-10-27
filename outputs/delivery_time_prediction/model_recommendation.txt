@@ -1,0 +1,1 @@
+Best model by test MAE: Ridge; MAE=3.94 minutes; RMSE=4.94 minutes; R2=0.906. Inspect the Random Forest feature importance for influential predictors. Results are based on synthetic data and need validation on real operational data.

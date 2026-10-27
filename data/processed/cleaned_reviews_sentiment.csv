@@ -1,0 +1,1148 @@
+review_id,order_id,customer_id,rating,review_text,review_timestamp,sentiment,clean_review
+REV00001,ORD00002,CUST0194,5,Quick delivery and friendly driver.,2026-02-09 19:41:00,positive,quick delivery friendly driver
+REV00002,ORD00003,CUST0264,5,Food arrived hot and tasted great.,2026-02-23 21:24:00,positive,food arrived hot tasted great
+REV00003,ORD00004,CUST0194,4,Food arrived hot and tasted great.,2026-02-21 08:38:00,positive,food arrived hot tasted great
+REV00004,ORD00005,CUST0114,4,Quick delivery and friendly driver.,2026-01-12 12:50:00,positive,quick delivery friendly driver
+REV00005,ORD00006,CUST0124,2,Order was missing an item.,2026-03-11 15:21:00,negative,order miss item
+REV00006,ORD00007,CUST0156,2,Delivery was late and the food was cold.,2026-01-21 07:40:00,negative,delivery late food cold
+REV00007,ORD00009,CUST0223,4,Fresh food and accurate order.,2026-03-18 15:54:00,positive,fresh food accurate order
+REV00008,ORD00010,CUST0196,5,Good value and carefully packed.,2026-03-08 01:38:00,positive,good value carefully packed
+REV00009,ORD00011,CUST0220,4,Fresh food and accurate order.,2026-02-08 16:33:00,positive,fresh food accurate order
+REV00010,ORD00016,CUST0134,3,Taste was fine but portion was small.,2026-01-19 11:41:00,neutral,taste fine portion small
+REV00011,ORD00018,CUST0234,2,Food quality was disappointing.,2026-02-22 16:07:00,negative,food quality disappoint
+REV00012,ORD00019,CUST0272,5,Quick delivery and friendly driver.,2026-03-16 12:33:00,positive,quick delivery friendly driver
+REV00013,ORD00020,CUST0210,4,Food arrived hot and tasted great.,2026-02-08 04:21:00,positive,food arrived hot tasted great
+REV00014,ORD00021,CUST0260,4,Quick delivery and friendly driver.,2026-03-23 13:33:00,positive,quick delivery friendly driver
+REV00015,ORD00022,CUST0259,3,Order was as expected.,2026-02-27 15:57:00,neutral,order expected
+REV00016,ORD00025,CUST0030,2,Packaging was damaged and support was slow.,2026-02-24 17:36:00,negative,packag damaged support slow
+REV00017,ORD00026,CUST0001,4,Fresh food and accurate order.,2026-02-06 01:00:00,positive,fresh food accurate order
+REV00018,ORD00028,CUST0130,4,Quick delivery and friendly driver.,2026-01-28 03:52:00,positive,quick delivery friendly driver
+REV00019,ORD00029,CUST0224,5,Good value and carefully packed.,2026-02-25 06:50:00,positive,good value carefully packed
+REV00020,ORD00031,CUST0007,4,Fresh food and accurate order.,2026-02-14 06:06:00,positive,fresh food accurate order
+REV00021,ORD00032,CUST0064,4,Quick delivery and friendly driver.,2026-01-30 16:01:00,positive,quick delivery friendly driver
+REV00022,ORD00033,CUST0294,4,Quick delivery and friendly driver.,2026-02-05 21:04:00,positive,quick delivery friendly driver
+REV00023,ORD00034,CUST0297,5,Food arrived hot and tasted great.,2026-02-14 19:19:00,positive,food arrived hot tasted great
+REV00024,ORD00035,CUST0114,3,Order was as expected.,2026-02-12 11:15:00,neutral,order expected
+REV00025,ORD00036,CUST0242,4,Fresh food and accurate order.,2026-01-29 20:04:00,positive,fresh food accurate order
+REV00026,ORD00037,CUST0216,4,Quick delivery and friendly driver.,2026-02-24 09:07:00,positive,quick delivery friendly driver
+REV00027,ORD00039,CUST0267,2,Order was missing an item.,2026-02-16 02:07:00,negative,order miss item
+REV00028,ORD00042,CUST0188,3,Taste was fine but portion was small.,2026-03-14 13:23:00,neutral,taste fine portion small
+REV00029,ORD00043,CUST0096,3,Order was as expected.,2026-03-17 14:31:00,neutral,order expected
+REV00030,ORD00044,CUST0105,4,Good value and carefully packed.,2026-03-08 12:32:00,positive,good value carefully packed
+REV00031,ORD00045,CUST0183,3,Taste was fine but portion was small.,2026-03-11 02:35:00,neutral,taste fine portion small
+REV00032,ORD00046,CUST0172,5,Food arrived hot and tasted great.,2026-01-10 22:27:00,positive,food arrived hot tasted great
+REV00033,ORD00047,CUST0175,5,Food arrived hot and tasted great.,2026-02-02 17:22:00,positive,food arrived hot tasted great
+REV00034,ORD00049,CUST0123,4,Quick delivery and friendly driver.,2026-03-14 01:14:00,positive,quick delivery friendly driver
+REV00035,ORD00050,CUST0004,3,Taste was fine but portion was small.,2026-02-22 10:57:00,neutral,taste fine portion small
+REV00036,ORD00054,CUST0152,4,Fresh food and accurate order.,2026-01-10 18:34:00,positive,fresh food accurate order
+REV00037,ORD00055,CUST0141,3,"Food was okay, delivery was average.",2026-02-23 10:35:00,neutral,food okay delivery average
+REV00038,ORD00056,CUST0021,4,Quick delivery and friendly driver.,2026-03-03 20:47:00,positive,quick delivery friendly driver
+REV00039,ORD00057,CUST0060,4,Food arrived hot and tasted great.,2026-01-26 16:16:00,positive,food arrived hot tasted great
+REV00040,ORD00059,CUST0114,2,Food quality was disappointing.,2026-03-11 12:36:00,negative,food quality disappoint
+REV00041,ORD00060,CUST0109,3,Order was as expected.,2026-02-06 09:53:00,neutral,order expected
+REV00042,ORD00061,CUST0119,4,Quick delivery and friendly driver.,2026-01-26 11:46:00,positive,quick delivery friendly driver
+REV00043,ORD00062,CUST0231,3,"Food was okay, delivery was average.",2026-03-08 19:24:00,neutral,food okay delivery average
+REV00044,ORD00063,CUST0040,3,Taste was fine but portion was small.,2026-03-03 10:13:00,neutral,taste fine portion small
+REV00045,ORD00065,CUST0049,4,Food arrived hot and tasted great.,2026-01-27 23:04:00,positive,food arrived hot tasted great
+REV00046,ORD00066,CUST0093,3,Order was as expected.,2026-02-15 17:41:00,neutral,order expected
+REV00047,ORD00068,CUST0015,3,Order was as expected.,2026-01-15 22:28:00,neutral,order expected
+REV00048,ORD00069,CUST0102,3,"Food was okay, delivery was average.",2026-03-30 09:04:00,neutral,food okay delivery average
+REV00049,ORD00070,CUST0008,5,Food arrived hot and tasted great.,2026-02-08 23:28:00,positive,food arrived hot tasted great
+REV00050,ORD00071,CUST0287,4,Good value and carefully packed.,2026-02-08 07:37:00,positive,good value carefully packed
+REV00051,ORD00072,CUST0219,3,Taste was fine but portion was small.,2026-01-10 10:44:00,neutral,taste fine portion small
+REV00052,ORD00074,CUST0060,4,Quick delivery and friendly driver.,2026-01-23 03:54:00,positive,quick delivery friendly driver
+REV00053,ORD00075,CUST0030,3,Order was as expected.,2026-03-31 19:48:00,neutral,order expected
+REV00054,ORD00076,CUST0142,3,"Food was okay, delivery was average.",2026-02-17 15:23:00,neutral,food okay delivery average
+REV00055,ORD00077,CUST0227,2,Delivery was late and the food was cold.,2026-03-22 17:40:00,negative,delivery late food cold
+REV00056,ORD00080,CUST0104,5,Quick delivery and friendly driver.,2026-03-17 02:24:00,positive,quick delivery friendly driver
+REV00057,ORD00083,CUST0061,4,Fresh food and accurate order.,2026-01-04 21:26:00,positive,fresh food accurate order
+REV00058,ORD00085,CUST0056,5,Quick delivery and friendly driver.,2026-02-09 09:31:00,positive,quick delivery friendly driver
+REV00059,ORD00086,CUST0144,1,Packaging was damaged and support was slow.,2026-03-26 05:43:00,negative,packag damaged support slow
+REV00060,ORD00087,CUST0157,4,Quick delivery and friendly driver.,2026-03-23 08:47:00,positive,quick delivery friendly driver
+REV00061,ORD00088,CUST0018,5,Good value and carefully packed.,2026-03-21 15:13:00,positive,good value carefully packed
+REV00062,ORD00089,CUST0141,3,Taste was fine but portion was small.,2026-03-06 23:42:00,neutral,taste fine portion small
+REV00063,ORD00090,CUST0137,3,Order was as expected.,2026-03-04 14:13:00,neutral,order expected
+REV00064,ORD00092,CUST0039,3,Order was as expected.,2026-01-06 05:31:00,neutral,order expected
+REV00065,ORD00093,CUST0014,5,Good value and carefully packed.,2026-02-08 21:47:00,positive,good value carefully packed
+REV00066,ORD00094,CUST0003,5,Fresh food and accurate order.,2026-03-10 17:58:00,positive,fresh food accurate order
+REV00067,ORD00096,CUST0027,2,Food quality was disappointing.,2026-02-22 08:39:00,negative,food quality disappoint
+REV00068,ORD00098,CUST0074,4,Fresh food and accurate order.,2026-01-03 22:58:00,positive,fresh food accurate order
+REV00069,ORD00100,CUST0203,3,"Food was okay, delivery was average.",2026-02-18 16:41:00,neutral,food okay delivery average
+REV00070,ORD00101,CUST0149,5,Fresh food and accurate order.,2026-03-23 07:45:00,positive,fresh food accurate order
+REV00071,ORD00102,CUST0266,4,Food arrived hot and tasted great.,2026-01-28 23:52:00,positive,food arrived hot tasted great
+REV00072,ORD00103,CUST0034,4,Quick delivery and friendly driver.,2026-01-24 16:41:00,positive,quick delivery friendly driver
+REV00073,ORD00104,CUST0071,4,Fresh food and accurate order.,2026-02-05 17:08:00,positive,fresh food accurate order
+REV00074,ORD00105,CUST0076,5,Food arrived hot and tasted great.,2026-01-19 08:02:00,positive,food arrived hot tasted great
+REV00075,ORD00106,CUST0041,4,Fresh food and accurate order.,2026-02-24 06:11:00,positive,fresh food accurate order
+REV00076,ORD00107,CUST0089,4,Quick delivery and friendly driver.,2026-03-02 20:27:00,positive,quick delivery friendly driver
+REV00077,ORD00109,CUST0230,4,Fresh food and accurate order.,2026-03-31 11:30:00,positive,fresh food accurate order
+REV00078,ORD00110,CUST0091,4,Fresh food and accurate order.,2026-01-07 14:59:00,positive,fresh food accurate order
+REV00079,ORD00111,CUST0264,4,Good value and carefully packed.,2026-01-26 06:04:00,positive,good value carefully packed
+REV00080,ORD00112,CUST0232,4,Quick delivery and friendly driver.,2026-01-30 01:32:00,positive,quick delivery friendly driver
+REV00081,ORD00113,CUST0271,5,Fresh food and accurate order.,2026-01-24 11:17:00,positive,fresh food accurate order
+REV00082,ORD00114,CUST0032,5,Quick delivery and friendly driver.,2026-03-18 10:55:00,positive,quick delivery friendly driver
+REV00083,ORD00115,CUST0296,3,Order was as expected.,2026-01-16 13:19:00,neutral,order expected
+REV00084,ORD00119,CUST0286,4,Good value and carefully packed.,2026-01-21 09:01:00,positive,good value carefully packed
+REV00085,ORD00120,CUST0177,3,"Food was okay, delivery was average.",2026-02-03 22:58:00,neutral,food okay delivery average
+REV00086,ORD00121,CUST0022,2,Packaging was damaged and support was slow.,2026-02-16 06:51:00,negative,packag damaged support slow
+REV00087,ORD00122,CUST0124,3,"Food was okay, delivery was average.",2026-02-17 08:02:00,neutral,food okay delivery average
+REV00088,ORD00123,CUST0042,3,Taste was fine but portion was small.,2026-04-02 04:17:00,neutral,taste fine portion small
+REV00089,ORD00126,CUST0067,4,Quick delivery and friendly driver.,2026-02-08 01:09:00,positive,quick delivery friendly driver
+REV00090,ORD00127,CUST0166,4,Food arrived hot and tasted great.,2026-02-23 02:00:00,positive,food arrived hot tasted great
+REV00091,ORD00129,CUST0030,4,Fresh food and accurate order.,2026-02-18 02:32:00,positive,fresh food accurate order
+REV00092,ORD00130,CUST0245,4,Food arrived hot and tasted great.,2026-03-27 00:51:00,positive,food arrived hot tasted great
+REV00093,ORD00131,CUST0254,5,Fresh food and accurate order.,2026-03-17 16:05:00,positive,fresh food accurate order
+REV00094,ORD00134,CUST0121,4,Food arrived hot and tasted great.,2026-03-06 01:58:00,positive,food arrived hot tasted great
+REV00095,ORD00135,CUST0163,4,Good value and carefully packed.,2026-02-06 22:20:00,positive,good value carefully packed
+REV00096,ORD00136,CUST0157,5,Fresh food and accurate order.,2026-02-12 13:20:00,positive,fresh food accurate order
+REV00097,ORD00137,CUST0050,4,Quick delivery and friendly driver.,2026-01-20 02:44:00,positive,quick delivery friendly driver
+REV00098,ORD00139,CUST0076,4,Fresh food and accurate order.,2026-03-12 16:09:00,positive,fresh food accurate order
+REV00099,ORD00140,CUST0137,5,Good value and carefully packed.,2026-03-20 20:43:00,positive,good value carefully packed
+REV00100,ORD00141,CUST0049,5,Food arrived hot and tasted great.,2026-03-14 14:58:00,positive,food arrived hot tasted great
+REV00101,ORD00143,CUST0256,4,Quick delivery and friendly driver.,2026-01-15 07:11:00,positive,quick delivery friendly driver
+REV00102,ORD00144,CUST0113,3,Order was as expected.,2026-01-17 08:56:00,neutral,order expected
+REV00103,ORD00146,CUST0158,5,Good value and carefully packed.,2026-02-17 14:21:00,positive,good value carefully packed
+REV00104,ORD00151,CUST0112,4,Good value and carefully packed.,2026-01-28 21:19:00,positive,good value carefully packed
+REV00105,ORD00152,CUST0251,3,Order was as expected.,2026-01-22 19:15:00,neutral,order expected
+REV00106,ORD00153,CUST0122,4,Fresh food and accurate order.,2026-02-20 22:53:00,positive,fresh food accurate order
+REV00107,ORD00157,CUST0232,5,Quick delivery and friendly driver.,2026-01-26 11:37:00,positive,quick delivery friendly driver
+REV00108,ORD00158,CUST0013,4,Quick delivery and friendly driver.,2026-02-26 09:43:00,positive,quick delivery friendly driver
+REV00109,ORD00160,CUST0182,4,Good value and carefully packed.,2026-03-17 22:43:00,positive,good value carefully packed
+REV00110,ORD00161,CUST0283,5,Quick delivery and friendly driver.,2026-01-17 08:05:00,positive,quick delivery friendly driver
+REV00111,ORD00163,CUST0037,5,Fresh food and accurate order.,2026-02-17 15:59:00,positive,fresh food accurate order
+REV00112,ORD00164,CUST0070,4,Fresh food and accurate order.,2026-01-26 02:53:00,positive,fresh food accurate order
+REV00113,ORD00166,CUST0219,4,Good value and carefully packed.,2026-01-09 09:29:00,positive,good value carefully packed
+REV00114,ORD00167,CUST0031,4,Food arrived hot and tasted great.,2026-02-21 18:38:00,positive,food arrived hot tasted great
+REV00115,ORD00169,CUST0080,4,Quick delivery and friendly driver.,2026-01-09 09:06:00,positive,quick delivery friendly driver
+REV00116,ORD00170,CUST0054,2,Order was missing an item.,2026-02-01 03:55:00,negative,order miss item
+REV00117,ORD00171,CUST0254,5,Food arrived hot and tasted great.,2026-03-21 23:55:00,positive,food arrived hot tasted great
+REV00118,ORD00172,CUST0186,5,Quick delivery and friendly driver.,2026-02-20 00:29:00,positive,quick delivery friendly driver
+REV00119,ORD00173,CUST0054,3,Taste was fine but portion was small.,2026-01-18 17:57:00,neutral,taste fine portion small
+REV00120,ORD00174,CUST0196,2,Delivery was late and the food was cold.,2026-01-24 04:21:00,negative,delivery late food cold
+REV00121,ORD00175,CUST0125,4,Good value and carefully packed.,2026-03-10 19:59:00,positive,good value carefully packed
+REV00122,ORD00176,CUST0019,5,Fresh food and accurate order.,2026-03-22 11:31:00,positive,fresh food accurate order
+REV00123,ORD00177,CUST0135,5,Good value and carefully packed.,2026-02-05 10:49:00,positive,good value carefully packed
+REV00124,ORD00179,CUST0074,5,Quick delivery and friendly driver.,2026-03-13 10:45:00,positive,quick delivery friendly driver
+REV00125,ORD00180,CUST0264,3,Order was as expected.,2026-01-16 22:09:00,neutral,order expected
+REV00126,ORD00181,CUST0214,4,Quick delivery and friendly driver.,2026-01-21 13:32:00,positive,quick delivery friendly driver
+REV00127,ORD00184,CUST0173,5,Food arrived hot and tasted great.,2026-03-13 08:57:00,positive,food arrived hot tasted great
+REV00128,ORD00186,CUST0225,5,Good value and carefully packed.,2026-04-03 02:28:00,positive,good value carefully packed
+REV00129,ORD00187,CUST0102,2,Delivery was late and the food was cold.,2026-01-04 23:08:00,negative,delivery late food cold
+REV00130,ORD00188,CUST0161,3,Taste was fine but portion was small.,2026-03-29 03:15:00,neutral,taste fine portion small
+REV00131,ORD00189,CUST0160,4,Fresh food and accurate order.,2026-01-21 06:38:00,positive,fresh food accurate order
+REV00132,ORD00190,CUST0216,3,Order was as expected.,2026-01-07 03:46:00,neutral,order expected
+REV00133,ORD00191,CUST0075,4,Food arrived hot and tasted great.,2026-03-09 03:51:00,positive,food arrived hot tasted great
+REV00134,ORD00192,CUST0100,3,Order was as expected.,2026-02-19 22:15:00,neutral,order expected
+REV00135,ORD00193,CUST0074,3,Order was as expected.,2026-03-18 08:44:00,neutral,order expected
+REV00136,ORD00194,CUST0089,3,Order was as expected.,2026-01-14 18:02:00,neutral,order expected
+REV00137,ORD00196,CUST0011,5,Food arrived hot and tasted great.,2026-02-25 01:15:00,positive,food arrived hot tasted great
+REV00138,ORD00197,CUST0283,4,Quick delivery and friendly driver.,2026-03-24 09:17:00,positive,quick delivery friendly driver
+REV00139,ORD00198,CUST0023,5,Food arrived hot and tasted great.,2026-02-08 12:26:00,positive,food arrived hot tasted great
+REV00140,ORD00200,CUST0001,3,"Food was okay, delivery was average.",2026-03-24 13:24:00,neutral,food okay delivery average
+REV00141,ORD00201,CUST0234,5,Fresh food and accurate order.,2026-03-24 06:31:00,positive,fresh food accurate order
+REV00142,ORD00202,CUST0099,2,Delivery was late and the food was cold.,2026-02-18 18:43:00,negative,delivery late food cold
+REV00143,ORD00203,CUST0156,3,Taste was fine but portion was small.,2026-03-08 20:36:00,neutral,taste fine portion small
+REV00144,ORD00204,CUST0085,4,Food arrived hot and tasted great.,2026-02-17 07:26:00,positive,food arrived hot tasted great
+REV00145,ORD00209,CUST0161,4,Quick delivery and friendly driver.,2026-03-03 18:01:00,positive,quick delivery friendly driver
+REV00146,ORD00211,CUST0131,5,Fresh food and accurate order.,2026-03-26 17:16:00,positive,fresh food accurate order
+REV00147,ORD00212,CUST0109,4,Fresh food and accurate order.,2026-02-26 04:34:00,positive,fresh food accurate order
+REV00148,ORD00213,CUST0040,5,Food arrived hot and tasted great.,2026-01-11 01:07:00,positive,food arrived hot tasted great
+REV00149,ORD00214,CUST0108,5,Food arrived hot and tasted great.,2026-02-22 20:57:00,positive,food arrived hot tasted great
+REV00150,ORD00215,CUST0038,2,Packaging was damaged and support was slow.,2026-01-30 10:03:00,negative,packag damaged support slow
+REV00151,ORD00216,CUST0055,4,Quick delivery and friendly driver.,2026-01-07 09:54:00,positive,quick delivery friendly driver
+REV00152,ORD00217,CUST0286,4,Good value and carefully packed.,2026-01-07 12:30:00,positive,good value carefully packed
+REV00153,ORD00218,CUST0027,4,Good value and carefully packed.,2026-02-26 05:12:00,positive,good value carefully packed
+REV00154,ORD00219,CUST0145,3,Taste was fine but portion was small.,2026-03-31 00:46:00,neutral,taste fine portion small
+REV00155,ORD00221,CUST0286,5,Food arrived hot and tasted great.,2026-02-12 01:46:00,positive,food arrived hot tasted great
+REV00156,ORD00223,CUST0050,3,Taste was fine but portion was small.,2026-03-02 18:44:00,neutral,taste fine portion small
+REV00157,ORD00224,CUST0112,4,Quick delivery and friendly driver.,2026-01-09 23:49:00,positive,quick delivery friendly driver
+REV00158,ORD00225,CUST0167,3,Taste was fine but portion was small.,2026-03-18 16:49:00,neutral,taste fine portion small
+REV00159,ORD00226,CUST0288,4,Fresh food and accurate order.,2026-03-17 11:26:00,positive,fresh food accurate order
+REV00160,ORD00227,CUST0063,4,Food arrived hot and tasted great.,2026-04-02 04:33:00,positive,food arrived hot tasted great
+REV00161,ORD00228,CUST0050,4,Good value and carefully packed.,2026-01-29 14:02:00,positive,good value carefully packed
+REV00162,ORD00229,CUST0076,4,Food arrived hot and tasted great.,2026-01-19 13:27:00,positive,food arrived hot tasted great
+REV00163,ORD00230,CUST0263,2,Delivery was late and the food was cold.,2026-01-27 22:59:00,negative,delivery late food cold
+REV00164,ORD00234,CUST0048,3,"Food was okay, delivery was average.",2026-01-18 21:02:00,neutral,food okay delivery average
+REV00165,ORD00235,CUST0276,4,Quick delivery and friendly driver.,2026-01-05 09:34:00,positive,quick delivery friendly driver
+REV00166,ORD00236,CUST0001,4,Good value and carefully packed.,2026-01-21 17:48:00,positive,good value carefully packed
+REV00167,ORD00239,CUST0183,5,Food arrived hot and tasted great.,2026-02-04 22:12:00,positive,food arrived hot tasted great
+REV00168,ORD00242,CUST0292,4,Good value and carefully packed.,2026-02-21 22:11:00,positive,good value carefully packed
+REV00169,ORD00243,CUST0121,3,Taste was fine but portion was small.,2026-02-19 06:20:00,neutral,taste fine portion small
+REV00170,ORD00244,CUST0159,4,Food arrived hot and tasted great.,2026-01-10 03:13:00,positive,food arrived hot tasted great
+REV00171,ORD00245,CUST0160,4,Fresh food and accurate order.,2026-01-27 09:02:00,positive,fresh food accurate order
+REV00172,ORD00248,CUST0252,4,Food arrived hot and tasted great.,2026-02-13 19:48:00,positive,food arrived hot tasted great
+REV00173,ORD00249,CUST0297,4,Food arrived hot and tasted great.,2026-01-15 12:36:00,positive,food arrived hot tasted great
+REV00174,ORD00250,CUST0043,3,"Food was okay, delivery was average.",2026-03-14 20:25:00,neutral,food okay delivery average
+REV00175,ORD00251,CUST0246,2,Delivery was late and the food was cold.,2026-01-10 07:10:00,negative,delivery late food cold
+REV00176,ORD00253,CUST0223,5,Quick delivery and friendly driver.,2026-02-28 09:37:00,positive,quick delivery friendly driver
+REV00177,ORD00254,CUST0112,5,Good value and carefully packed.,2026-01-24 20:20:00,positive,good value carefully packed
+REV00178,ORD00255,CUST0141,4,Good value and carefully packed.,2026-02-01 15:02:00,positive,good value carefully packed
+REV00179,ORD00257,CUST0046,4,Quick delivery and friendly driver.,2026-01-23 11:55:00,positive,quick delivery friendly driver
+REV00180,ORD00258,CUST0249,5,Quick delivery and friendly driver.,2026-03-13 13:26:00,positive,quick delivery friendly driver
+REV00181,ORD00259,CUST0277,4,Good value and carefully packed.,2026-03-08 06:28:00,positive,good value carefully packed
+REV00182,ORD00260,CUST0205,3,Taste was fine but portion was small.,2026-01-24 11:45:00,neutral,taste fine portion small
+REV00183,ORD00261,CUST0103,3,"Food was okay, delivery was average.",2026-03-03 19:35:00,neutral,food okay delivery average
+REV00184,ORD00263,CUST0016,3,Taste was fine but portion was small.,2026-02-20 12:36:00,neutral,taste fine portion small
+REV00185,ORD00265,CUST0103,5,Food arrived hot and tasted great.,2026-03-26 03:30:00,positive,food arrived hot tasted great
+REV00186,ORD00267,CUST0239,4,Good value and carefully packed.,2026-02-08 16:29:00,positive,good value carefully packed
+REV00187,ORD00268,CUST0198,4,Fresh food and accurate order.,2026-02-22 12:14:00,positive,fresh food accurate order
+REV00188,ORD00269,CUST0187,4,Food arrived hot and tasted great.,2026-03-18 05:27:00,positive,food arrived hot tasted great
+REV00189,ORD00270,CUST0017,4,Good value and carefully packed.,2026-03-07 20:42:00,positive,good value carefully packed
+REV00190,ORD00271,CUST0226,3,"Food was okay, delivery was average.",2026-01-10 18:18:00,neutral,food okay delivery average
+REV00191,ORD00272,CUST0192,4,Fresh food and accurate order.,2026-02-12 08:02:00,positive,fresh food accurate order
+REV00192,ORD00276,CUST0064,4,Quick delivery and friendly driver.,2026-03-18 17:30:00,positive,quick delivery friendly driver
+REV00193,ORD00277,CUST0278,5,Quick delivery and friendly driver.,2026-03-18 04:39:00,positive,quick delivery friendly driver
+REV00194,ORD00278,CUST0160,5,Fresh food and accurate order.,2026-01-09 08:31:00,positive,fresh food accurate order
+REV00195,ORD00280,CUST0087,5,Fresh food and accurate order.,2026-02-19 12:01:00,positive,fresh food accurate order
+REV00196,ORD00281,CUST0192,4,Quick delivery and friendly driver.,2026-03-01 09:48:00,positive,quick delivery friendly driver
+REV00197,ORD00282,CUST0227,4,Quick delivery and friendly driver.,2026-03-21 12:33:00,positive,quick delivery friendly driver
+REV00198,ORD00283,CUST0001,3,Taste was fine but portion was small.,2026-02-04 19:06:00,neutral,taste fine portion small
+REV00199,ORD00284,CUST0166,4,Quick delivery and friendly driver.,2026-02-19 01:23:00,positive,quick delivery friendly driver
+REV00200,ORD00286,CUST0085,5,Quick delivery and friendly driver.,2026-03-10 18:53:00,positive,quick delivery friendly driver
+REV00201,ORD00287,CUST0085,4,Food arrived hot and tasted great.,2026-03-15 08:03:00,positive,food arrived hot tasted great
+REV00202,ORD00289,CUST0019,4,Quick delivery and friendly driver.,2026-04-01 20:10:00,positive,quick delivery friendly driver
+REV00203,ORD00292,CUST0240,4,Quick delivery and friendly driver.,2026-02-28 18:56:00,positive,quick delivery friendly driver
+REV00204,ORD00293,CUST0039,5,Fresh food and accurate order.,2026-01-09 12:25:00,positive,fresh food accurate order
+REV00205,ORD00294,CUST0131,2,Food quality was disappointing.,2026-02-13 14:30:00,negative,food quality disappoint
+REV00206,ORD00295,CUST0046,3,Taste was fine but portion was small.,2026-02-25 15:03:00,neutral,taste fine portion small
+REV00207,ORD00297,CUST0190,2,Packaging was damaged and support was slow.,2026-01-11 17:05:00,negative,packag damaged support slow
+REV00208,ORD00300,CUST0046,4,Good value and carefully packed.,2026-03-03 14:13:00,positive,good value carefully packed
+REV00209,ORD00301,CUST0277,5,Quick delivery and friendly driver.,2026-02-03 14:09:00,positive,quick delivery friendly driver
+REV00210,ORD00302,CUST0195,3,Taste was fine but portion was small.,2026-02-25 10:20:00,neutral,taste fine portion small
+REV00211,ORD00303,CUST0096,5,Quick delivery and friendly driver.,2026-03-11 19:01:00,positive,quick delivery friendly driver
+REV00212,ORD00304,CUST0125,3,Order was as expected.,2026-03-17 18:07:00,neutral,order expected
+REV00213,ORD00305,CUST0218,3,Order was as expected.,2026-01-19 13:01:00,neutral,order expected
+REV00214,ORD00307,CUST0139,3,"Food was okay, delivery was average.",2026-01-18 22:01:00,neutral,food okay delivery average
+REV00215,ORD00308,CUST0091,4,Quick delivery and friendly driver.,2026-01-03 23:15:00,positive,quick delivery friendly driver
+REV00216,ORD00309,CUST0198,5,Good value and carefully packed.,2026-01-09 01:07:00,positive,good value carefully packed
+REV00217,ORD00310,CUST0198,1,Delivery was late and the food was cold.,2026-01-22 02:14:00,negative,delivery late food cold
+REV00218,ORD00312,CUST0022,3,Order was as expected.,2026-01-23 17:01:00,neutral,order expected
+REV00219,ORD00314,CUST0185,3,"Food was okay, delivery was average.",2026-02-08 15:56:00,neutral,food okay delivery average
+REV00220,ORD00315,CUST0286,3,Taste was fine but portion was small.,2026-01-04 14:17:00,neutral,taste fine portion small
+REV00221,ORD00317,CUST0103,2,Packaging was damaged and support was slow.,2026-01-07 13:06:00,negative,packag damaged support slow
+REV00222,ORD00318,CUST0167,2,Packaging was damaged and support was slow.,2026-02-12 20:32:00,negative,packag damaged support slow
+REV00223,ORD00319,CUST0054,4,Good value and carefully packed.,2026-02-21 06:44:00,positive,good value carefully packed
+REV00224,ORD00320,CUST0028,2,Packaging was damaged and support was slow.,2026-02-18 22:08:00,negative,packag damaged support slow
+REV00225,ORD00321,CUST0204,3,"Food was okay, delivery was average.",2026-01-29 10:16:00,neutral,food okay delivery average
+REV00226,ORD00322,CUST0296,5,Fresh food and accurate order.,2026-03-14 23:47:00,positive,fresh food accurate order
+REV00227,ORD00324,CUST0176,5,Quick delivery and friendly driver.,2026-01-23 22:20:00,positive,quick delivery friendly driver
+REV00228,ORD00328,CUST0087,3,Taste was fine but portion was small.,2026-03-09 18:35:00,neutral,taste fine portion small
+REV00229,ORD00329,CUST0268,2,Delivery was late and the food was cold.,2026-01-26 21:40:00,negative,delivery late food cold
+REV00230,ORD00330,CUST0224,5,Good value and carefully packed.,2026-03-04 17:49:00,positive,good value carefully packed
+REV00231,ORD00332,CUST0084,3,"Food was okay, delivery was average.",2026-02-27 20:54:00,neutral,food okay delivery average
+REV00232,ORD00333,CUST0298,4,Quick delivery and friendly driver.,2026-01-09 20:45:00,positive,quick delivery friendly driver
+REV00233,ORD00337,CUST0198,4,Quick delivery and friendly driver.,2026-03-31 06:26:00,positive,quick delivery friendly driver
+REV00234,ORD00338,CUST0052,3,Taste was fine but portion was small.,2026-03-25 14:15:00,neutral,taste fine portion small
+REV00235,ORD00339,CUST0091,1,Packaging was damaged and support was slow.,2026-03-09 12:24:00,negative,packag damaged support slow
+REV00236,ORD00340,CUST0109,5,Fresh food and accurate order.,2026-01-10 02:51:00,positive,fresh food accurate order
+REV00237,ORD00341,CUST0285,3,Taste was fine but portion was small.,2026-02-14 20:51:00,neutral,taste fine portion small
+REV00238,ORD00344,CUST0221,4,Quick delivery and friendly driver.,2026-03-17 18:07:00,positive,quick delivery friendly driver
+REV00239,ORD00345,CUST0222,4,Good value and carefully packed.,2026-03-15 03:02:00,positive,good value carefully packed
+REV00240,ORD00346,CUST0119,2,Packaging was damaged and support was slow.,2026-02-20 23:39:00,negative,packag damaged support slow
+REV00241,ORD00347,CUST0121,4,Fresh food and accurate order.,2026-03-11 06:31:00,positive,fresh food accurate order
+REV00242,ORD00348,CUST0269,5,Quick delivery and friendly driver.,2026-01-12 15:25:00,positive,quick delivery friendly driver
+REV00243,ORD00349,CUST0169,5,Food arrived hot and tasted great.,2026-01-20 23:25:00,positive,food arrived hot tasted great
+REV00244,ORD00350,CUST0045,4,Fresh food and accurate order.,2026-03-23 10:37:00,positive,fresh food accurate order
+REV00245,ORD00351,CUST0216,5,Fresh food and accurate order.,2026-02-13 14:37:00,positive,fresh food accurate order
+REV00246,ORD00352,CUST0177,4,Good value and carefully packed.,2026-02-23 04:43:00,positive,good value carefully packed
+REV00247,ORD00354,CUST0218,3,Order was as expected.,2026-01-21 04:39:00,neutral,order expected
+REV00248,ORD00355,CUST0273,4,Food arrived hot and tasted great.,2026-03-19 09:02:00,positive,food arrived hot tasted great
+REV00249,ORD00358,CUST0057,3,Taste was fine but portion was small.,2026-02-02 18:53:00,neutral,taste fine portion small
+REV00250,ORD00359,CUST0195,5,Food arrived hot and tasted great.,2026-03-02 21:14:00,positive,food arrived hot tasted great
+REV00251,ORD00360,CUST0121,4,Quick delivery and friendly driver.,2026-03-30 19:01:00,positive,quick delivery friendly driver
+REV00252,ORD00362,CUST0209,4,Fresh food and accurate order.,2026-02-18 11:37:00,positive,fresh food accurate order
+REV00253,ORD00364,CUST0140,4,Food arrived hot and tasted great.,2026-02-19 01:15:00,positive,food arrived hot tasted great
+REV00254,ORD00365,CUST0133,2,Food quality was disappointing.,2026-02-04 10:53:00,negative,food quality disappoint
+REV00255,ORD00366,CUST0078,2,Delivery was late and the food was cold.,2026-02-26 00:20:00,negative,delivery late food cold
+REV00256,ORD00367,CUST0038,2,Delivery was late and the food was cold.,2026-01-07 02:37:00,negative,delivery late food cold
+REV00257,ORD00369,CUST0028,5,Quick delivery and friendly driver.,2026-03-14 19:47:00,positive,quick delivery friendly driver
+REV00258,ORD00370,CUST0098,4,Good value and carefully packed.,2026-02-05 06:21:00,positive,good value carefully packed
+REV00259,ORD00373,CUST0197,4,Food arrived hot and tasted great.,2026-02-13 10:35:00,positive,food arrived hot tasted great
+REV00260,ORD00374,CUST0220,4,Fresh food and accurate order.,2026-03-13 06:39:00,positive,fresh food accurate order
+REV00261,ORD00377,CUST0006,3,Taste was fine but portion was small.,2026-01-19 20:21:00,neutral,taste fine portion small
+REV00262,ORD00380,CUST0242,4,Quick delivery and friendly driver.,2026-03-24 17:42:00,positive,quick delivery friendly driver
+REV00263,ORD00381,CUST0060,3,Order was as expected.,2026-01-21 22:18:00,neutral,order expected
+REV00264,ORD00384,CUST0282,4,Fresh food and accurate order.,2026-01-11 18:55:00,positive,fresh food accurate order
+REV00265,ORD00385,CUST0259,1,Food quality was disappointing.,2026-03-15 01:48:00,negative,food quality disappoint
+REV00266,ORD00386,CUST0226,4,Fresh food and accurate order.,2026-03-10 16:57:00,positive,fresh food accurate order
+REV00267,ORD00387,CUST0075,3,Taste was fine but portion was small.,2026-02-04 21:10:00,neutral,taste fine portion small
+REV00268,ORD00389,CUST0201,3,"Food was okay, delivery was average.",2026-02-05 05:18:00,neutral,food okay delivery average
+REV00269,ORD00390,CUST0052,4,Fresh food and accurate order.,2026-01-29 22:51:00,positive,fresh food accurate order
+REV00270,ORD00394,CUST0230,3,"Food was okay, delivery was average.",2026-02-07 01:12:00,neutral,food okay delivery average
+REV00271,ORD00395,CUST0042,5,Quick delivery and friendly driver.,2026-01-29 21:00:00,positive,quick delivery friendly driver
+REV00272,ORD00398,CUST0085,3,"Food was okay, delivery was average.",2026-01-28 15:07:00,neutral,food okay delivery average
+REV00273,ORD00399,CUST0203,4,Fresh food and accurate order.,2026-03-26 13:25:00,positive,fresh food accurate order
+REV00274,ORD00400,CUST0275,2,Order was missing an item.,2026-02-15 17:14:00,negative,order miss item
+REV00275,ORD00402,CUST0223,1,Food quality was disappointing.,2026-04-01 03:38:00,negative,food quality disappoint
+REV00276,ORD00403,CUST0061,5,Food arrived hot and tasted great.,2026-02-11 20:25:00,positive,food arrived hot tasted great
+REV00277,ORD00406,CUST0164,4,Good value and carefully packed.,2026-01-02 14:18:00,positive,good value carefully packed
+REV00278,ORD00407,CUST0211,4,Quick delivery and friendly driver.,2026-02-11 05:03:00,positive,quick delivery friendly driver
+REV00279,ORD00408,CUST0231,3,Taste was fine but portion was small.,2026-04-02 04:46:00,neutral,taste fine portion small
+REV00280,ORD00410,CUST0175,4,Fresh food and accurate order.,2026-03-04 13:38:00,positive,fresh food accurate order
+REV00281,ORD00411,CUST0184,4,Fresh food and accurate order.,2026-02-17 06:36:00,positive,fresh food accurate order
+REV00282,ORD00414,CUST0093,4,Good value and carefully packed.,2026-02-17 02:49:00,positive,good value carefully packed
+REV00283,ORD00415,CUST0188,4,Food arrived hot and tasted great.,2026-01-13 09:10:00,positive,food arrived hot tasted great
+REV00284,ORD00418,CUST0216,3,Taste was fine but portion was small.,2026-03-21 03:24:00,neutral,taste fine portion small
+REV00285,ORD00420,CUST0156,5,Fresh food and accurate order.,2026-03-20 20:12:00,positive,fresh food accurate order
+REV00286,ORD00421,CUST0120,5,Good value and carefully packed.,2026-02-09 22:33:00,positive,good value carefully packed
+REV00287,ORD00422,CUST0133,3,"Food was okay, delivery was average.",2026-02-28 14:55:00,neutral,food okay delivery average
+REV00288,ORD00425,CUST0007,3,Taste was fine but portion was small.,2026-03-29 18:20:00,neutral,taste fine portion small
+REV00289,ORD00427,CUST0121,2,Order was missing an item.,2026-01-08 06:14:00,negative,order miss item
+REV00290,ORD00429,CUST0263,5,Food arrived hot and tasted great.,2026-02-27 22:21:00,positive,food arrived hot tasted great
+REV00291,ORD00431,CUST0184,3,"Food was okay, delivery was average.",2026-02-12 04:42:00,neutral,food okay delivery average
+REV00292,ORD00432,CUST0109,3,Taste was fine but portion was small.,2026-01-05 12:22:00,neutral,taste fine portion small
+REV00293,ORD00437,CUST0257,3,Order was as expected.,2026-01-15 15:55:00,neutral,order expected
+REV00294,ORD00438,CUST0099,4,Quick delivery and friendly driver.,2026-03-24 06:33:00,positive,quick delivery friendly driver
+REV00295,ORD00439,CUST0097,3,Order was as expected.,2026-01-21 12:16:00,neutral,order expected
+REV00296,ORD00441,CUST0164,1,Order was missing an item.,2026-01-25 17:04:00,negative,order miss item
+REV00297,ORD00442,CUST0212,3,"Food was okay, delivery was average.",2026-01-14 23:20:00,neutral,food okay delivery average
+REV00298,ORD00444,CUST0133,4,Fresh food and accurate order.,2026-02-03 17:47:00,positive,fresh food accurate order
+REV00299,ORD00445,CUST0190,5,Fresh food and accurate order.,2026-02-18 14:43:00,positive,fresh food accurate order
+REV00300,ORD00446,CUST0244,1,Food quality was disappointing.,2026-02-20 08:03:00,negative,food quality disappoint
+REV00301,ORD00447,CUST0101,5,Fresh food and accurate order.,2026-01-03 02:08:00,positive,fresh food accurate order
+REV00302,ORD00450,CUST0121,4,Food arrived hot and tasted great.,2026-01-19 12:36:00,positive,food arrived hot tasted great
+REV00303,ORD00452,CUST0287,3,"Food was okay, delivery was average.",2026-01-29 07:36:00,neutral,food okay delivery average
+REV00304,ORD00454,CUST0095,4,Fresh food and accurate order.,2026-01-30 19:12:00,positive,fresh food accurate order
+REV00305,ORD00455,CUST0253,4,Fresh food and accurate order.,2026-01-31 14:48:00,positive,fresh food accurate order
+REV00306,ORD00457,CUST0294,3,"Food was okay, delivery was average.",2026-02-23 08:32:00,neutral,food okay delivery average
+REV00307,ORD00459,CUST0224,5,Quick delivery and friendly driver.,2026-01-21 23:08:00,positive,quick delivery friendly driver
+REV00308,ORD00460,CUST0300,2,Food quality was disappointing.,2026-02-07 20:15:00,negative,food quality disappoint
+REV00309,ORD00461,CUST0230,3,Taste was fine but portion was small.,2026-01-05 04:20:00,neutral,taste fine portion small
+REV00310,ORD00462,CUST0070,3,"Food was okay, delivery was average.",2026-02-15 07:57:00,neutral,food okay delivery average
+REV00311,ORD00463,CUST0229,2,Packaging was damaged and support was slow.,2026-03-27 17:21:00,negative,packag damaged support slow
+REV00312,ORD00464,CUST0032,2,Delivery was late and the food was cold.,2026-02-08 19:32:00,negative,delivery late food cold
+REV00313,ORD00465,CUST0145,5,Good value and carefully packed.,2026-01-10 17:56:00,positive,good value carefully packed
+REV00314,ORD00467,CUST0137,4,Food arrived hot and tasted great.,2026-01-16 10:00:00,positive,food arrived hot tasted great
+REV00315,ORD00469,CUST0073,4,Quick delivery and friendly driver.,2026-01-14 04:32:00,positive,quick delivery friendly driver
+REV00316,ORD00470,CUST0182,3,Order was as expected.,2026-03-25 12:43:00,neutral,order expected
+REV00317,ORD00471,CUST0194,4,Good value and carefully packed.,2026-04-01 07:33:00,positive,good value carefully packed
+REV00318,ORD00472,CUST0191,3,"Food was okay, delivery was average.",2026-02-22 06:25:00,neutral,food okay delivery average
+REV00319,ORD00474,CUST0092,2,Delivery was late and the food was cold.,2026-03-02 02:11:00,negative,delivery late food cold
+REV00320,ORD00476,CUST0139,3,"Food was okay, delivery was average.",2026-02-22 23:15:00,neutral,food okay delivery average
+REV00321,ORD00477,CUST0176,2,Delivery was late and the food was cold.,2026-04-01 19:16:00,negative,delivery late food cold
+REV00322,ORD00478,CUST0109,4,Good value and carefully packed.,2026-03-11 23:33:00,positive,good value carefully packed
+REV00323,ORD00479,CUST0123,3,"Food was okay, delivery was average.",2026-01-08 23:01:00,neutral,food okay delivery average
+REV00324,ORD00480,CUST0086,4,Fresh food and accurate order.,2026-02-06 06:35:00,positive,fresh food accurate order
+REV00325,ORD00484,CUST0088,5,Good value and carefully packed.,2026-03-22 03:56:00,positive,good value carefully packed
+REV00326,ORD00485,CUST0259,2,Delivery was late and the food was cold.,2026-03-01 01:50:00,negative,delivery late food cold
+REV00327,ORD00487,CUST0051,4,Food arrived hot and tasted great.,2026-02-11 19:22:00,positive,food arrived hot tasted great
+REV00328,ORD00488,CUST0110,4,Fresh food and accurate order.,2026-01-14 04:38:00,positive,fresh food accurate order
+REV00329,ORD00490,CUST0012,3,"Food was okay, delivery was average.",2026-02-13 08:57:00,neutral,food okay delivery average
+REV00330,ORD00491,CUST0101,4,Quick delivery and friendly driver.,2026-03-28 19:29:00,positive,quick delivery friendly driver
+REV00331,ORD00492,CUST0137,2,Order was missing an item.,2026-02-01 15:42:00,negative,order miss item
+REV00332,ORD00494,CUST0041,3,"Food was okay, delivery was average.",2026-02-10 11:27:00,neutral,food okay delivery average
+REV00333,ORD00496,CUST0071,3,Taste was fine but portion was small.,2026-02-17 09:33:00,neutral,taste fine portion small
+REV00334,ORD00497,CUST0042,3,Taste was fine but portion was small.,2026-02-04 02:54:00,neutral,taste fine portion small
+REV00335,ORD00498,CUST0210,3,Order was as expected.,2026-03-06 00:28:00,neutral,order expected
+REV00336,ORD00500,CUST0182,3,"Food was okay, delivery was average.",2026-01-29 22:27:00,neutral,food okay delivery average
+REV00337,ORD00503,CUST0118,4,Fresh food and accurate order.,2026-01-09 04:25:00,positive,fresh food accurate order
+REV00338,ORD00504,CUST0136,5,Quick delivery and friendly driver.,2026-02-10 16:20:00,positive,quick delivery friendly driver
+REV00339,ORD00505,CUST0300,4,Good value and carefully packed.,2026-03-27 01:23:00,positive,good value carefully packed
+REV00340,ORD00507,CUST0058,3,Order was as expected.,2026-02-23 02:28:00,neutral,order expected
+REV00341,ORD00509,CUST0047,4,Fresh food and accurate order.,2026-03-07 09:29:00,positive,fresh food accurate order
+REV00342,ORD00510,CUST0008,4,Fresh food and accurate order.,2026-03-23 12:12:00,positive,fresh food accurate order
+REV00343,ORD00513,CUST0186,2,Order was missing an item.,2026-02-20 00:07:00,negative,order miss item
+REV00344,ORD00515,CUST0280,3,Taste was fine but portion was small.,2026-03-04 14:47:00,neutral,taste fine portion small
+REV00345,ORD00518,CUST0190,2,Packaging was damaged and support was slow.,2026-02-01 17:20:00,negative,packag damaged support slow
+REV00346,ORD00519,CUST0021,1,Delivery was late and the food was cold.,2026-01-14 22:46:00,negative,delivery late food cold
+REV00347,ORD00520,CUST0282,2,Delivery was late and the food was cold.,2026-03-17 00:12:00,negative,delivery late food cold
+REV00348,ORD00521,CUST0042,3,Order was as expected.,2026-01-24 23:17:00,neutral,order expected
+REV00349,ORD00525,CUST0082,3,Taste was fine but portion was small.,2026-01-05 02:27:00,neutral,taste fine portion small
+REV00350,ORD00526,CUST0143,3,Order was as expected.,2026-01-26 00:12:00,neutral,order expected
+REV00351,ORD00527,CUST0266,5,Food arrived hot and tasted great.,2026-03-05 19:08:00,positive,food arrived hot tasted great
+REV00352,ORD00531,CUST0034,3,Order was as expected.,2026-01-05 16:09:00,neutral,order expected
+REV00353,ORD00533,CUST0250,5,Good value and carefully packed.,2026-01-17 11:51:00,positive,good value carefully packed
+REV00354,ORD00535,CUST0053,4,Food arrived hot and tasted great.,2026-03-06 16:09:00,positive,food arrived hot tasted great
+REV00355,ORD00537,CUST0128,3,"Food was okay, delivery was average.",2026-01-09 09:34:00,neutral,food okay delivery average
+REV00356,ORD00539,CUST0166,4,Fresh food and accurate order.,2026-02-25 01:56:00,positive,fresh food accurate order
+REV00357,ORD00543,CUST0206,3,"Food was okay, delivery was average.",2026-02-25 22:23:00,neutral,food okay delivery average
+REV00358,ORD00544,CUST0239,4,Quick delivery and friendly driver.,2026-02-15 17:54:00,positive,quick delivery friendly driver
+REV00359,ORD00546,CUST0001,5,Good value and carefully packed.,2026-02-03 19:35:00,positive,good value carefully packed
+REV00360,ORD00547,CUST0298,1,Packaging was damaged and support was slow.,2026-03-04 18:07:00,negative,packag damaged support slow
+REV00361,ORD00548,CUST0008,2,Packaging was damaged and support was slow.,2026-02-20 07:04:00,negative,packag damaged support slow
+REV00362,ORD00549,CUST0300,4,Quick delivery and friendly driver.,2026-02-26 11:40:00,positive,quick delivery friendly driver
+REV00363,ORD00550,CUST0010,5,Good value and carefully packed.,2026-02-23 22:59:00,positive,good value carefully packed
+REV00364,ORD00553,CUST0029,3,"Food was okay, delivery was average.",2026-02-20 16:22:00,neutral,food okay delivery average
+REV00365,ORD00554,CUST0206,5,Good value and carefully packed.,2026-03-09 15:01:00,positive,good value carefully packed
+REV00366,ORD00555,CUST0219,5,Food arrived hot and tasted great.,2026-03-25 08:55:00,positive,food arrived hot tasted great
+REV00367,ORD00556,CUST0036,5,Quick delivery and friendly driver.,2026-03-26 05:22:00,positive,quick delivery friendly driver
+REV00368,ORD00557,CUST0293,2,Food quality was disappointing.,2026-03-03 00:21:00,negative,food quality disappoint
+REV00369,ORD00560,CUST0090,4,Good value and carefully packed.,2026-03-11 09:37:00,positive,good value carefully packed
+REV00370,ORD00563,CUST0128,5,Food arrived hot and tasted great.,2026-01-08 17:30:00,positive,food arrived hot tasted great
+REV00371,ORD00567,CUST0202,3,Order was as expected.,2026-01-04 00:09:00,neutral,order expected
+REV00372,ORD00568,CUST0229,2,Delivery was late and the food was cold.,2026-01-19 00:20:00,negative,delivery late food cold
+REV00373,ORD00570,CUST0098,4,Fresh food and accurate order.,2026-03-19 00:04:00,positive,fresh food accurate order
+REV00374,ORD00571,CUST0237,4,Quick delivery and friendly driver.,2026-01-23 00:33:00,positive,quick delivery friendly driver
+REV00375,ORD00572,CUST0205,3,"Food was okay, delivery was average.",2026-01-16 18:37:00,neutral,food okay delivery average
+REV00376,ORD00573,CUST0250,4,Food arrived hot and tasted great.,2026-03-15 08:07:00,positive,food arrived hot tasted great
+REV00377,ORD00575,CUST0247,3,Taste was fine but portion was small.,2026-01-18 04:16:00,neutral,taste fine portion small
+REV00378,ORD00576,CUST0281,4,Fresh food and accurate order.,2026-03-01 18:07:00,positive,fresh food accurate order
+REV00379,ORD00577,CUST0125,5,Good value and carefully packed.,2026-01-27 12:34:00,positive,good value carefully packed
+REV00380,ORD00578,CUST0119,4,Fresh food and accurate order.,2026-03-08 23:52:00,positive,fresh food accurate order
+REV00381,ORD00579,CUST0097,5,Quick delivery and friendly driver.,2026-02-10 15:28:00,positive,quick delivery friendly driver
+REV00382,ORD00582,CUST0215,3,Order was as expected.,2026-02-19 11:25:00,neutral,order expected
+REV00383,ORD00585,CUST0148,4,Fresh food and accurate order.,2026-03-31 04:37:00,positive,fresh food accurate order
+REV00384,ORD00587,CUST0268,5,Quick delivery and friendly driver.,2026-03-20 18:38:00,positive,quick delivery friendly driver
+REV00385,ORD00588,CUST0081,4,Quick delivery and friendly driver.,2026-03-28 16:54:00,positive,quick delivery friendly driver
+REV00386,ORD00589,CUST0044,5,Fresh food and accurate order.,2026-01-16 19:43:00,positive,fresh food accurate order
+REV00387,ORD00590,CUST0171,4,Fresh food and accurate order.,2026-01-09 10:27:00,positive,fresh food accurate order
+REV00388,ORD00591,CUST0264,3,Order was as expected.,2026-03-11 21:38:00,neutral,order expected
+REV00389,ORD00592,CUST0275,4,Food arrived hot and tasted great.,2026-01-21 21:49:00,positive,food arrived hot tasted great
+REV00390,ORD00593,CUST0029,3,Order was as expected.,2026-01-15 07:33:00,neutral,order expected
+REV00391,ORD00596,CUST0093,5,Good value and carefully packed.,2026-03-16 14:30:00,positive,good value carefully packed
+REV00392,ORD00597,CUST0161,4,Good value and carefully packed.,2026-02-20 14:37:00,positive,good value carefully packed
+REV00393,ORD00599,CUST0021,5,Good value and carefully packed.,2026-02-03 06:34:00,positive,good value carefully packed
+REV00394,ORD00600,CUST0154,4,Good value and carefully packed.,2026-03-05 23:08:00,positive,good value carefully packed
+REV00395,ORD00601,CUST0016,4,Fresh food and accurate order.,2026-01-18 03:10:00,positive,fresh food accurate order
+REV00396,ORD00602,CUST0069,2,Order was missing an item.,2026-02-17 04:42:00,negative,order miss item
+REV00397,ORD00603,CUST0001,3,Taste was fine but portion was small.,2026-01-05 01:30:00,neutral,taste fine portion small
+REV00398,ORD00604,CUST0027,3,Order was as expected.,2026-02-03 06:11:00,neutral,order expected
+REV00399,ORD00607,CUST0233,4,Food arrived hot and tasted great.,2026-03-28 06:17:00,positive,food arrived hot tasted great
+REV00400,ORD00611,CUST0196,4,Fresh food and accurate order.,2026-04-01 06:45:00,positive,fresh food accurate order
+REV00401,ORD00612,CUST0225,2,Food quality was disappointing.,2026-03-27 00:51:00,negative,food quality disappoint
+REV00402,ORD00614,CUST0103,4,Food arrived hot and tasted great.,2026-03-08 21:21:00,positive,food arrived hot tasted great
+REV00403,ORD00615,CUST0051,4,Good value and carefully packed.,2026-02-26 07:06:00,positive,good value carefully packed
+REV00404,ORD00616,CUST0008,5,Food arrived hot and tasted great.,2026-01-13 04:15:00,positive,food arrived hot tasted great
+REV00405,ORD00617,CUST0045,4,Good value and carefully packed.,2026-01-25 03:26:00,positive,good value carefully packed
+REV00406,ORD00619,CUST0259,3,Order was as expected.,2026-02-18 20:45:00,neutral,order expected
+REV00407,ORD00621,CUST0247,4,Food arrived hot and tasted great.,2026-02-02 20:10:00,positive,food arrived hot tasted great
+REV00408,ORD00622,CUST0166,4,Quick delivery and friendly driver.,2026-03-17 09:47:00,positive,quick delivery friendly driver
+REV00409,ORD00623,CUST0162,3,Taste was fine but portion was small.,2026-01-29 12:17:00,neutral,taste fine portion small
+REV00410,ORD00626,CUST0014,4,Food arrived hot and tasted great.,2026-04-01 07:49:00,positive,food arrived hot tasted great
+REV00411,ORD00627,CUST0028,5,Quick delivery and friendly driver.,2026-01-21 11:58:00,positive,quick delivery friendly driver
+REV00412,ORD00631,CUST0222,5,Fresh food and accurate order.,2026-02-28 13:45:00,positive,fresh food accurate order
+REV00413,ORD00632,CUST0177,2,Order was missing an item.,2026-01-25 19:49:00,negative,order miss item
+REV00414,ORD00633,CUST0078,4,Quick delivery and friendly driver.,2026-01-14 12:52:00,positive,quick delivery friendly driver
+REV00415,ORD00636,CUST0061,3,Taste was fine but portion was small.,2026-03-26 03:22:00,neutral,taste fine portion small
+REV00416,ORD00637,CUST0152,3,Taste was fine but portion was small.,2026-02-18 12:21:00,neutral,taste fine portion small
+REV00417,ORD00638,CUST0162,4,Food arrived hot and tasted great.,2026-02-07 00:59:00,positive,food arrived hot tasted great
+REV00418,ORD00639,CUST0226,4,Fresh food and accurate order.,2026-03-17 18:10:00,positive,fresh food accurate order
+REV00419,ORD00640,CUST0215,3,Order was as expected.,2026-01-19 11:36:00,neutral,order expected
+REV00420,ORD00641,CUST0140,3,"Food was okay, delivery was average.",2026-03-04 20:26:00,neutral,food okay delivery average
+REV00421,ORD00642,CUST0093,5,Good value and carefully packed.,2026-03-06 04:54:00,positive,good value carefully packed
+REV00422,ORD00643,CUST0111,2,Delivery was late and the food was cold.,2026-03-09 21:36:00,negative,delivery late food cold
+REV00423,ORD00644,CUST0124,4,Food arrived hot and tasted great.,2026-01-23 14:45:00,positive,food arrived hot tasted great
+REV00424,ORD00646,CUST0188,4,Food arrived hot and tasted great.,2026-02-27 01:54:00,positive,food arrived hot tasted great
+REV00425,ORD00648,CUST0195,4,Good value and carefully packed.,2026-01-18 16:41:00,positive,good value carefully packed
+REV00426,ORD00649,CUST0226,3,Order was as expected.,2026-02-27 05:23:00,neutral,order expected
+REV00427,ORD00650,CUST0289,3,"Food was okay, delivery was average.",2026-03-16 16:01:00,neutral,food okay delivery average
+REV00428,ORD00651,CUST0036,3,"Food was okay, delivery was average.",2026-01-26 00:56:00,neutral,food okay delivery average
+REV00429,ORD00653,CUST0026,3,Taste was fine but portion was small.,2026-01-09 22:56:00,neutral,taste fine portion small
+REV00430,ORD00657,CUST0053,5,Food arrived hot and tasted great.,2026-01-10 23:19:00,positive,food arrived hot tasted great
+REV00431,ORD00659,CUST0247,4,Quick delivery and friendly driver.,2026-01-22 17:11:00,positive,quick delivery friendly driver
+REV00432,ORD00661,CUST0120,5,Fresh food and accurate order.,2026-01-07 11:07:00,positive,fresh food accurate order
+REV00433,ORD00663,CUST0298,3,Taste was fine but portion was small.,2026-02-22 09:35:00,neutral,taste fine portion small
+REV00434,ORD00664,CUST0257,2,Delivery was late and the food was cold.,2026-03-27 20:12:00,negative,delivery late food cold
+REV00435,ORD00665,CUST0042,2,Packaging was damaged and support was slow.,2026-01-19 10:19:00,negative,packag damaged support slow
+REV00436,ORD00670,CUST0276,2,Packaging was damaged and support was slow.,2026-03-27 12:36:00,negative,packag damaged support slow
+REV00437,ORD00673,CUST0263,4,Fresh food and accurate order.,2026-01-29 20:36:00,positive,fresh food accurate order
+REV00438,ORD00675,CUST0293,4,Quick delivery and friendly driver.,2026-02-20 09:44:00,positive,quick delivery friendly driver
+REV00439,ORD00676,CUST0287,2,Food quality was disappointing.,2026-03-24 00:45:00,negative,food quality disappoint
+REV00440,ORD00677,CUST0262,5,Fresh food and accurate order.,2026-02-20 16:06:00,positive,fresh food accurate order
+REV00441,ORD00678,CUST0137,4,Quick delivery and friendly driver.,2026-01-06 11:26:00,positive,quick delivery friendly driver
+REV00442,ORD00679,CUST0058,3,"Food was okay, delivery was average.",2026-02-12 13:26:00,neutral,food okay delivery average
+REV00443,ORD00680,CUST0186,4,Food arrived hot and tasted great.,2026-03-18 05:15:00,positive,food arrived hot tasted great
+REV00444,ORD00682,CUST0142,4,Quick delivery and friendly driver.,2026-01-16 22:48:00,positive,quick delivery friendly driver
+REV00445,ORD00683,CUST0197,5,Good value and carefully packed.,2026-01-21 21:47:00,positive,good value carefully packed
+REV00446,ORD00684,CUST0284,3,"Food was okay, delivery was average.",2026-03-18 21:26:00,neutral,food okay delivery average
+REV00447,ORD00685,CUST0087,3,Taste was fine but portion was small.,2026-03-31 03:09:00,neutral,taste fine portion small
+REV00448,ORD00686,CUST0076,3,Order was as expected.,2026-03-11 18:14:00,neutral,order expected
+REV00449,ORD00687,CUST0221,4,Fresh food and accurate order.,2026-01-11 19:51:00,positive,fresh food accurate order
+REV00450,ORD00688,CUST0002,3,Order was as expected.,2026-03-01 17:27:00,neutral,order expected
+REV00451,ORD00689,CUST0170,4,Food arrived hot and tasted great.,2026-03-17 15:07:00,positive,food arrived hot tasted great
+REV00452,ORD00690,CUST0224,4,Food arrived hot and tasted great.,2026-02-27 14:49:00,positive,food arrived hot tasted great
+REV00453,ORD00691,CUST0166,4,Food arrived hot and tasted great.,2026-02-26 11:14:00,positive,food arrived hot tasted great
+REV00454,ORD00695,CUST0214,1,Packaging was damaged and support was slow.,2026-03-12 02:39:00,negative,packag damaged support slow
+REV00455,ORD00696,CUST0140,5,Fresh food and accurate order.,2026-01-10 06:47:00,positive,fresh food accurate order
+REV00456,ORD00697,CUST0008,4,Good value and carefully packed.,2026-01-10 14:28:00,positive,good value carefully packed
+REV00457,ORD00698,CUST0160,5,Quick delivery and friendly driver.,2026-02-07 16:47:00,positive,quick delivery friendly driver
+REV00458,ORD00699,CUST0015,3,"Food was okay, delivery was average.",2026-03-14 16:44:00,neutral,food okay delivery average
+REV00459,ORD00700,CUST0280,1,Order was missing an item.,2026-03-03 03:11:00,negative,order miss item
+REV00460,ORD00701,CUST0181,5,Food arrived hot and tasted great.,2026-02-24 02:22:00,positive,food arrived hot tasted great
+REV00461,ORD00703,CUST0146,4,Food arrived hot and tasted great.,2026-01-12 23:13:00,positive,food arrived hot tasted great
+REV00462,ORD00704,CUST0186,3,"Food was okay, delivery was average.",2026-01-31 20:40:00,neutral,food okay delivery average
+REV00463,ORD00706,CUST0087,4,Good value and carefully packed.,2026-03-14 05:37:00,positive,good value carefully packed
+REV00464,ORD00707,CUST0126,4,Good value and carefully packed.,2026-03-11 13:48:00,positive,good value carefully packed
+REV00465,ORD00709,CUST0228,3,Taste was fine but portion was small.,2026-01-29 08:44:00,neutral,taste fine portion small
+REV00466,ORD00710,CUST0032,4,Food arrived hot and tasted great.,2026-01-29 13:42:00,positive,food arrived hot tasted great
+REV00467,ORD00711,CUST0248,3,Order was as expected.,2026-03-23 00:53:00,neutral,order expected
+REV00468,ORD00712,CUST0105,5,Fresh food and accurate order.,2026-02-16 23:13:00,positive,fresh food accurate order
+REV00469,ORD00713,CUST0169,4,Food arrived hot and tasted great.,2026-03-11 14:04:00,positive,food arrived hot tasted great
+REV00470,ORD00714,CUST0048,4,Food arrived hot and tasted great.,2026-02-11 09:28:00,positive,food arrived hot tasted great
+REV00471,ORD00718,CUST0040,4,Quick delivery and friendly driver.,2026-03-22 20:48:00,positive,quick delivery friendly driver
+REV00472,ORD00719,CUST0157,3,Order was as expected.,2026-03-05 19:19:00,neutral,order expected
+REV00473,ORD00720,CUST0049,3,Taste was fine but portion was small.,2026-03-14 05:46:00,neutral,taste fine portion small
+REV00474,ORD00722,CUST0136,3,"Food was okay, delivery was average.",2026-01-24 09:20:00,neutral,food okay delivery average
+REV00475,ORD00723,CUST0170,4,Good value and carefully packed.,2026-01-09 05:46:00,positive,good value carefully packed
+REV00476,ORD00725,CUST0203,4,Fresh food and accurate order.,2026-01-30 08:30:00,positive,fresh food accurate order
+REV00477,ORD00726,CUST0254,4,Food arrived hot and tasted great.,2026-02-11 05:16:00,positive,food arrived hot tasted great
+REV00478,ORD00727,CUST0020,4,Quick delivery and friendly driver.,2026-01-26 02:53:00,positive,quick delivery friendly driver
+REV00479,ORD00730,CUST0003,3,Taste was fine but portion was small.,2026-02-04 13:12:00,neutral,taste fine portion small
+REV00480,ORD00731,CUST0064,4,Fresh food and accurate order.,2026-03-09 19:26:00,positive,fresh food accurate order
+REV00481,ORD00734,CUST0233,3,Taste was fine but portion was small.,2026-01-14 03:27:00,neutral,taste fine portion small
+REV00482,ORD00735,CUST0194,3,Taste was fine but portion was small.,2026-02-22 08:46:00,neutral,taste fine portion small
+REV00483,ORD00736,CUST0234,3,Taste was fine but portion was small.,2026-01-17 18:02:00,neutral,taste fine portion small
+REV00484,ORD00737,CUST0052,2,Packaging was damaged and support was slow.,2026-01-29 06:34:00,negative,packag damaged support slow
+REV00485,ORD00740,CUST0029,3,Order was as expected.,2026-02-09 01:17:00,neutral,order expected
+REV00486,ORD00744,CUST0253,3,Taste was fine but portion was small.,2026-01-01 09:52:00,neutral,taste fine portion small
+REV00487,ORD00745,CUST0281,4,Food arrived hot and tasted great.,2026-02-24 05:13:00,positive,food arrived hot tasted great
+REV00488,ORD00746,CUST0143,3,Order was as expected.,2026-02-27 15:35:00,neutral,order expected
+REV00489,ORD00748,CUST0103,3,Taste was fine but portion was small.,2026-02-14 05:18:00,neutral,taste fine portion small
+REV00490,ORD00749,CUST0065,2,Food quality was disappointing.,2026-03-16 02:11:00,negative,food quality disappoint
+REV00491,ORD00750,CUST0143,4,Fresh food and accurate order.,2026-02-06 00:23:00,positive,fresh food accurate order
+REV00492,ORD00751,CUST0176,3,Taste was fine but portion was small.,2026-01-08 19:13:00,neutral,taste fine portion small
+REV00493,ORD00752,CUST0140,5,Food arrived hot and tasted great.,2026-02-04 12:36:00,positive,food arrived hot tasted great
+REV00494,ORD00754,CUST0091,4,Quick delivery and friendly driver.,2026-02-08 10:40:00,positive,quick delivery friendly driver
+REV00495,ORD00756,CUST0009,4,Fresh food and accurate order.,2026-01-16 11:43:00,positive,fresh food accurate order
+REV00496,ORD00757,CUST0065,5,Quick delivery and friendly driver.,2026-03-31 16:23:00,positive,quick delivery friendly driver
+REV00497,ORD00758,CUST0268,3,Order was as expected.,2026-01-16 14:21:00,neutral,order expected
+REV00498,ORD00761,CUST0063,4,Quick delivery and friendly driver.,2026-02-27 14:25:00,positive,quick delivery friendly driver
+REV00499,ORD00762,CUST0032,4,Good value and carefully packed.,2026-03-27 00:44:00,positive,good value carefully packed
+REV00500,ORD00763,CUST0127,3,Order was as expected.,2026-01-01 10:46:00,neutral,order expected
+REV00501,ORD00764,CUST0157,5,Fresh food and accurate order.,2026-01-28 03:31:00,positive,fresh food accurate order
+REV00502,ORD00765,CUST0053,4,Good value and carefully packed.,2026-01-17 14:06:00,positive,good value carefully packed
+REV00503,ORD00768,CUST0196,4,Quick delivery and friendly driver.,2026-03-25 19:28:00,positive,quick delivery friendly driver
+REV00504,ORD00769,CUST0259,4,Fresh food and accurate order.,2026-02-05 04:11:00,positive,fresh food accurate order
+REV00505,ORD00770,CUST0055,4,Food arrived hot and tasted great.,2026-01-22 05:32:00,positive,food arrived hot tasted great
+REV00506,ORD00772,CUST0104,2,Packaging was damaged and support was slow.,2026-03-06 13:39:00,negative,packag damaged support slow
+REV00507,ORD00773,CUST0109,4,Quick delivery and friendly driver.,2026-03-12 19:48:00,positive,quick delivery friendly driver
+REV00508,ORD00774,CUST0074,3,"Food was okay, delivery was average.",2026-02-12 01:09:00,neutral,food okay delivery average
+REV00509,ORD00775,CUST0017,3,"Food was okay, delivery was average.",2026-02-10 06:20:00,neutral,food okay delivery average
+REV00510,ORD00776,CUST0158,5,Quick delivery and friendly driver.,2026-02-09 00:20:00,positive,quick delivery friendly driver
+REV00511,ORD00777,CUST0108,4,Good value and carefully packed.,2026-03-09 10:57:00,positive,good value carefully packed
+REV00512,ORD00779,CUST0080,2,Packaging was damaged and support was slow.,2026-03-29 18:52:00,negative,packag damaged support slow
+REV00513,ORD00780,CUST0279,4,Quick delivery and friendly driver.,2026-01-19 19:59:00,positive,quick delivery friendly driver
+REV00514,ORD00783,CUST0062,3,Taste was fine but portion was small.,2026-03-03 19:51:00,neutral,taste fine portion small
+REV00515,ORD00785,CUST0267,5,Food arrived hot and tasted great.,2026-03-26 16:18:00,positive,food arrived hot tasted great
+REV00516,ORD00786,CUST0010,4,Food arrived hot and tasted great.,2026-03-13 00:42:00,positive,food arrived hot tasted great
+REV00517,ORD00787,CUST0279,5,Fresh food and accurate order.,2026-01-23 09:08:00,positive,fresh food accurate order
+REV00518,ORD00788,CUST0210,3,Taste was fine but portion was small.,2026-01-21 14:22:00,neutral,taste fine portion small
+REV00519,ORD00789,CUST0030,3,"Food was okay, delivery was average.",2026-03-25 18:57:00,neutral,food okay delivery average
+REV00520,ORD00790,CUST0226,4,Fresh food and accurate order.,2026-02-13 21:48:00,positive,fresh food accurate order
+REV00521,ORD00795,CUST0186,5,Fresh food and accurate order.,2026-03-16 10:55:00,positive,fresh food accurate order
+REV00522,ORD00796,CUST0123,3,Order was as expected.,2026-02-26 15:55:00,neutral,order expected
+REV00523,ORD00797,CUST0037,3,"Food was okay, delivery was average.",2026-03-01 07:32:00,neutral,food okay delivery average
+REV00524,ORD00798,CUST0060,3,Taste was fine but portion was small.,2026-03-21 20:15:00,neutral,taste fine portion small
+REV00525,ORD00799,CUST0256,3,Taste was fine but portion was small.,2026-02-17 14:21:00,neutral,taste fine portion small
+REV00526,ORD00801,CUST0227,3,Order was as expected.,2026-02-26 13:28:00,neutral,order expected
+REV00527,ORD00802,CUST0032,5,Fresh food and accurate order.,2026-01-21 19:12:00,positive,fresh food accurate order
+REV00528,ORD00804,CUST0208,4,Good value and carefully packed.,2026-03-20 22:33:00,positive,good value carefully packed
+REV00529,ORD00805,CUST0158,4,Food arrived hot and tasted great.,2026-01-20 09:37:00,positive,food arrived hot tasted great
+REV00530,ORD00806,CUST0043,3,"Food was okay, delivery was average.",2026-02-15 09:23:00,neutral,food okay delivery average
+REV00531,ORD00807,CUST0300,4,Food arrived hot and tasted great.,2026-01-26 06:58:00,positive,food arrived hot tasted great
+REV00532,ORD00808,CUST0133,3,Order was as expected.,2026-01-25 17:47:00,neutral,order expected
+REV00533,ORD00809,CUST0014,5,Fresh food and accurate order.,2026-02-24 19:12:00,positive,fresh food accurate order
+REV00534,ORD00811,CUST0121,4,Fresh food and accurate order.,2026-02-13 18:30:00,positive,fresh food accurate order
+REV00535,ORD00812,CUST0019,4,Food arrived hot and tasted great.,2026-01-15 11:39:00,positive,food arrived hot tasted great
+REV00536,ORD00813,CUST0098,4,Quick delivery and friendly driver.,2026-01-25 00:04:00,positive,quick delivery friendly driver
+REV00537,ORD00814,CUST0141,4,Fresh food and accurate order.,2026-01-19 19:28:00,positive,fresh food accurate order
+REV00538,ORD00815,CUST0285,5,Fresh food and accurate order.,2026-03-23 10:52:00,positive,fresh food accurate order
+REV00539,ORD00816,CUST0026,3,"Food was okay, delivery was average.",2026-02-02 18:11:00,neutral,food okay delivery average
+REV00540,ORD00819,CUST0242,4,Good value and carefully packed.,2026-02-14 03:25:00,positive,good value carefully packed
+REV00541,ORD00821,CUST0052,4,Fresh food and accurate order.,2026-02-07 20:57:00,positive,fresh food accurate order
+REV00542,ORD00822,CUST0241,3,Taste was fine but portion was small.,2026-03-04 14:41:00,neutral,taste fine portion small
+REV00543,ORD00824,CUST0098,2,Order was missing an item.,2026-01-17 20:45:00,negative,order miss item
+REV00544,ORD00828,CUST0087,3,"Food was okay, delivery was average.",2026-01-30 12:04:00,neutral,food okay delivery average
+REV00545,ORD00829,CUST0292,5,Good value and carefully packed.,2026-01-04 11:06:00,positive,good value carefully packed
+REV00546,ORD00831,CUST0115,5,Food arrived hot and tasted great.,2026-03-29 18:16:00,positive,food arrived hot tasted great
+REV00547,ORD00832,CUST0242,4,Fresh food and accurate order.,2026-01-09 05:21:00,positive,fresh food accurate order
+REV00548,ORD00836,CUST0142,4,Food arrived hot and tasted great.,2026-01-09 16:32:00,positive,food arrived hot tasted great
+REV00549,ORD00837,CUST0039,4,Food arrived hot and tasted great.,2026-03-20 05:14:00,positive,food arrived hot tasted great
+REV00550,ORD00839,CUST0097,3,Order was as expected.,2026-03-26 14:42:00,neutral,order expected
+REV00551,ORD00841,CUST0058,3,"Food was okay, delivery was average.",2026-01-31 08:58:00,neutral,food okay delivery average
+REV00552,ORD00844,CUST0240,3,"Food was okay, delivery was average.",2026-01-12 20:51:00,neutral,food okay delivery average
+REV00553,ORD00845,CUST0260,4,Food arrived hot and tasted great.,2026-02-25 19:01:00,positive,food arrived hot tasted great
+REV00554,ORD00846,CUST0010,4,Quick delivery and friendly driver.,2026-03-11 13:59:00,positive,quick delivery friendly driver
+REV00555,ORD00847,CUST0177,5,Quick delivery and friendly driver.,2026-01-25 01:22:00,positive,quick delivery friendly driver
+REV00556,ORD00848,CUST0174,4,Quick delivery and friendly driver.,2026-01-25 11:38:00,positive,quick delivery friendly driver
+REV00557,ORD00850,CUST0201,4,Food arrived hot and tasted great.,2026-01-22 05:39:00,positive,food arrived hot tasted great
+REV00558,ORD00852,CUST0132,4,Quick delivery and friendly driver.,2026-01-27 11:21:00,positive,quick delivery friendly driver
+REV00559,ORD00853,CUST0130,3,Order was as expected.,2026-03-04 08:07:00,neutral,order expected
+REV00560,ORD00854,CUST0241,3,"Food was okay, delivery was average.",2026-01-29 05:26:00,neutral,food okay delivery average
+REV00561,ORD00857,CUST0279,4,Quick delivery and friendly driver.,2026-03-11 11:39:00,positive,quick delivery friendly driver
+REV00562,ORD00858,CUST0241,5,Food arrived hot and tasted great.,2026-02-21 13:23:00,positive,food arrived hot tasted great
+REV00563,ORD00860,CUST0220,4,Food arrived hot and tasted great.,2026-03-26 16:34:00,positive,food arrived hot tasted great
+REV00564,ORD00861,CUST0118,4,Food arrived hot and tasted great.,2026-01-21 11:21:00,positive,food arrived hot tasted great
+REV00565,ORD00862,CUST0232,3,Taste was fine but portion was small.,2026-02-15 19:20:00,neutral,taste fine portion small
+REV00566,ORD00863,CUST0099,3,Taste was fine but portion was small.,2026-02-14 19:48:00,neutral,taste fine portion small
+REV00567,ORD00864,CUST0082,4,Food arrived hot and tasted great.,2026-03-11 02:28:00,positive,food arrived hot tasted great
+REV00568,ORD00865,CUST0136,4,Food arrived hot and tasted great.,2026-02-19 05:07:00,positive,food arrived hot tasted great
+REV00569,ORD00866,CUST0291,5,Good value and carefully packed.,2026-03-16 22:57:00,positive,good value carefully packed
+REV00570,ORD00867,CUST0171,3,"Food was okay, delivery was average.",2026-03-25 17:13:00,neutral,food okay delivery average
+REV00571,ORD00874,CUST0111,4,Food arrived hot and tasted great.,2026-02-05 02:56:00,positive,food arrived hot tasted great
+REV00572,ORD00875,CUST0097,3,Order was as expected.,2026-03-29 19:29:00,neutral,order expected
+REV00573,ORD00876,CUST0292,4,Food arrived hot and tasted great.,2026-01-12 15:03:00,positive,food arrived hot tasted great
+REV00574,ORD00877,CUST0104,3,"Food was okay, delivery was average.",2026-02-15 21:28:00,neutral,food okay delivery average
+REV00575,ORD00879,CUST0114,4,Food arrived hot and tasted great.,2026-01-07 06:32:00,positive,food arrived hot tasted great
+REV00576,ORD00881,CUST0029,3,Order was as expected.,2026-01-12 12:29:00,neutral,order expected
+REV00577,ORD00882,CUST0092,4,Quick delivery and friendly driver.,2026-02-01 21:57:00,positive,quick delivery friendly driver
+REV00578,ORD00884,CUST0151,3,"Food was okay, delivery was average.",2026-02-26 16:48:00,neutral,food okay delivery average
+REV00579,ORD00885,CUST0217,2,Delivery was late and the food was cold.,2026-01-26 04:36:00,negative,delivery late food cold
+REV00580,ORD00887,CUST0117,4,Quick delivery and friendly driver.,2026-01-16 07:04:00,positive,quick delivery friendly driver
+REV00581,ORD00888,CUST0259,3,Order was as expected.,2026-03-29 10:57:00,neutral,order expected
+REV00582,ORD00890,CUST0235,5,Quick delivery and friendly driver.,2026-01-21 22:13:00,positive,quick delivery friendly driver
+REV00583,ORD00891,CUST0169,4,Quick delivery and friendly driver.,2026-01-18 14:06:00,positive,quick delivery friendly driver
+REV00584,ORD00892,CUST0228,4,Good value and carefully packed.,2026-01-06 21:03:00,positive,good value carefully packed
+REV00585,ORD00893,CUST0227,1,Delivery was late and the food was cold.,2026-03-29 08:15:00,negative,delivery late food cold
+REV00586,ORD00894,CUST0160,4,Fresh food and accurate order.,2026-03-06 13:17:00,positive,fresh food accurate order
+REV00587,ORD00895,CUST0078,2,Packaging was damaged and support was slow.,2026-03-12 11:24:00,negative,packag damaged support slow
+REV00588,ORD00896,CUST0158,5,Fresh food and accurate order.,2026-01-29 03:38:00,positive,fresh food accurate order
+REV00589,ORD00897,CUST0249,3,Order was as expected.,2026-03-02 16:26:00,neutral,order expected
+REV00590,ORD00898,CUST0292,5,Quick delivery and friendly driver.,2026-01-07 09:11:00,positive,quick delivery friendly driver
+REV00591,ORD00899,CUST0279,4,Quick delivery and friendly driver.,2026-03-02 20:12:00,positive,quick delivery friendly driver
+REV00592,ORD00901,CUST0180,2,Food quality was disappointing.,2026-02-03 19:59:00,negative,food quality disappoint
+REV00593,ORD00902,CUST0032,2,Food quality was disappointing.,2026-03-09 22:36:00,negative,food quality disappoint
+REV00594,ORD00904,CUST0298,4,Quick delivery and friendly driver.,2026-02-09 12:14:00,positive,quick delivery friendly driver
+REV00595,ORD00905,CUST0016,4,Fresh food and accurate order.,2026-01-19 19:15:00,positive,fresh food accurate order
+REV00596,ORD00906,CUST0197,4,Quick delivery and friendly driver.,2026-01-03 02:54:00,positive,quick delivery friendly driver
+REV00597,ORD00913,CUST0174,5,Good value and carefully packed.,2026-03-10 00:06:00,positive,good value carefully packed
+REV00598,ORD00914,CUST0294,4,Good value and carefully packed.,2026-02-26 14:00:00,positive,good value carefully packed
+REV00599,ORD00916,CUST0185,3,Taste was fine but portion was small.,2026-01-02 10:05:00,neutral,taste fine portion small
+REV00600,ORD00917,CUST0012,5,Fresh food and accurate order.,2026-02-11 14:48:00,positive,fresh food accurate order
+REV00601,ORD00918,CUST0281,4,Quick delivery and friendly driver.,2026-02-16 18:34:00,positive,quick delivery friendly driver
+REV00602,ORD00919,CUST0205,4,Fresh food and accurate order.,2026-03-02 22:05:00,positive,fresh food accurate order
+REV00603,ORD00920,CUST0275,3,Order was as expected.,2026-01-17 15:09:00,neutral,order expected
+REV00604,ORD00924,CUST0101,4,Food arrived hot and tasted great.,2026-03-16 00:09:00,positive,food arrived hot tasted great
+REV00605,ORD00929,CUST0149,2,Food quality was disappointing.,2026-01-17 14:18:00,negative,food quality disappoint
+REV00606,ORD00930,CUST0061,4,Good value and carefully packed.,2026-03-25 15:57:00,positive,good value carefully packed
+REV00607,ORD00931,CUST0140,5,Quick delivery and friendly driver.,2026-02-03 21:56:00,positive,quick delivery friendly driver
+REV00608,ORD00932,CUST0136,4,Food arrived hot and tasted great.,2026-03-14 05:21:00,positive,food arrived hot tasted great
+REV00609,ORD00933,CUST0002,2,Order was missing an item.,2026-02-01 19:30:00,negative,order miss item
+REV00610,ORD00934,CUST0171,2,Delivery was late and the food was cold.,2026-03-14 04:13:00,negative,delivery late food cold
+REV00611,ORD00935,CUST0236,5,Quick delivery and friendly driver.,2026-02-10 21:01:00,positive,quick delivery friendly driver
+REV00612,ORD00936,CUST0281,4,Quick delivery and friendly driver.,2026-01-07 14:58:00,positive,quick delivery friendly driver
+REV00613,ORD00937,CUST0100,4,Fresh food and accurate order.,2026-01-21 03:18:00,positive,fresh food accurate order
+REV00614,ORD00938,CUST0265,4,Quick delivery and friendly driver.,2026-03-03 12:13:00,positive,quick delivery friendly driver
+REV00615,ORD00940,CUST0297,2,Delivery was late and the food was cold.,2026-01-29 18:41:00,negative,delivery late food cold
+REV00616,ORD00943,CUST0170,5,Fresh food and accurate order.,2026-01-15 14:22:00,positive,fresh food accurate order
+REV00617,ORD00944,CUST0018,3,Taste was fine but portion was small.,2026-02-28 04:29:00,neutral,taste fine portion small
+REV00618,ORD00945,CUST0082,4,Quick delivery and friendly driver.,2026-03-05 00:01:00,positive,quick delivery friendly driver
+REV00619,ORD00946,CUST0202,4,Good value and carefully packed.,2026-03-07 23:23:00,positive,good value carefully packed
+REV00620,ORD00948,CUST0131,2,Order was missing an item.,2026-01-15 04:54:00,negative,order miss item
+REV00621,ORD00954,CUST0073,4,Fresh food and accurate order.,2026-03-07 07:02:00,positive,fresh food accurate order
+REV00622,ORD00955,CUST0290,2,Food quality was disappointing.,2026-01-07 20:47:00,negative,food quality disappoint
+REV00623,ORD00956,CUST0024,4,Quick delivery and friendly driver.,2026-01-27 16:12:00,positive,quick delivery friendly driver
+REV00624,ORD00958,CUST0238,4,Good value and carefully packed.,2026-02-15 12:58:00,positive,good value carefully packed
+REV00625,ORD00959,CUST0257,4,Fresh food and accurate order.,2026-03-12 11:48:00,positive,fresh food accurate order
+REV00626,ORD00960,CUST0256,3,Order was as expected.,2026-02-23 09:46:00,neutral,order expected
+REV00627,ORD00961,CUST0057,4,Fresh food and accurate order.,2026-03-19 21:00:00,positive,fresh food accurate order
+REV00628,ORD00962,CUST0280,3,Order was as expected.,2026-02-24 15:08:00,neutral,order expected
+REV00629,ORD00963,CUST0179,5,Quick delivery and friendly driver.,2026-01-08 02:43:00,positive,quick delivery friendly driver
+REV00630,ORD00966,CUST0174,4,Quick delivery and friendly driver.,2026-01-06 11:22:00,positive,quick delivery friendly driver
+REV00631,ORD00968,CUST0036,4,Good value and carefully packed.,2026-01-04 10:47:00,positive,good value carefully packed
+REV00632,ORD00969,CUST0031,4,Quick delivery and friendly driver.,2026-01-30 07:12:00,positive,quick delivery friendly driver
+REV00633,ORD00970,CUST0117,3,Order was as expected.,2026-02-25 13:29:00,neutral,order expected
+REV00634,ORD00972,CUST0152,3,"Food was okay, delivery was average.",2026-02-11 22:46:00,neutral,food okay delivery average
+REV00635,ORD00973,CUST0145,3,Taste was fine but portion was small.,2026-03-31 15:23:00,neutral,taste fine portion small
+REV00636,ORD00974,CUST0074,2,Order was missing an item.,2026-01-07 08:16:00,negative,order miss item
+REV00637,ORD00976,CUST0192,2,Food quality was disappointing.,2026-01-28 09:53:00,negative,food quality disappoint
+REV00638,ORD00977,CUST0295,4,Quick delivery and friendly driver.,2026-03-17 10:20:00,positive,quick delivery friendly driver
+REV00639,ORD00978,CUST0219,4,Good value and carefully packed.,2026-02-06 12:31:00,positive,good value carefully packed
+REV00640,ORD00981,CUST0128,4,Fresh food and accurate order.,2026-03-11 03:46:00,positive,fresh food accurate order
+REV00641,ORD00987,CUST0036,2,Packaging was damaged and support was slow.,2026-01-20 12:59:00,negative,packag damaged support slow
+REV00642,ORD00989,CUST0239,4,Good value and carefully packed.,2026-01-01 01:46:00,positive,good value carefully packed
+REV00643,ORD00990,CUST0067,3,"Food was okay, delivery was average.",2026-01-17 20:39:00,neutral,food okay delivery average
+REV00644,ORD00993,CUST0086,3,Order was as expected.,2026-02-01 20:20:00,neutral,order expected
+REV00645,ORD00996,CUST0220,3,"Food was okay, delivery was average.",2026-02-06 15:07:00,neutral,food okay delivery average
+REV00646,ORD01002,CUST0152,3,"Food was okay, delivery was average.",2026-03-19 17:02:00,neutral,food okay delivery average
+REV00647,ORD01004,CUST0131,3,Order was as expected.,2026-03-16 10:39:00,neutral,order expected
+REV00648,ORD01006,CUST0174,4,Quick delivery and friendly driver.,2026-02-11 22:09:00,positive,quick delivery friendly driver
+REV00649,ORD01007,CUST0050,4,Fresh food and accurate order.,2026-01-30 02:08:00,positive,fresh food accurate order
+REV00650,ORD01008,CUST0188,4,Quick delivery and friendly driver.,2026-03-13 20:50:00,positive,quick delivery friendly driver
+REV00651,ORD01011,CUST0114,3,"Food was okay, delivery was average.",2026-04-01 19:01:00,neutral,food okay delivery average
+REV00652,ORD01015,CUST0013,4,Quick delivery and friendly driver.,2026-03-07 08:14:00,positive,quick delivery friendly driver
+REV00653,ORD01020,CUST0280,3,"Food was okay, delivery was average.",2026-01-24 20:28:00,neutral,food okay delivery average
+REV00654,ORD01029,CUST0030,4,Fresh food and accurate order.,2026-04-03 19:02:00,positive,fresh food accurate order
+REV00655,ORD01031,CUST0285,3,"Food was okay, delivery was average.",2026-03-02 11:29:00,neutral,food okay delivery average
+REV00656,ORD01032,CUST0060,2,Packaging was damaged and support was slow.,2026-01-19 15:43:00,negative,packag damaged support slow
+REV00657,ORD01036,CUST0125,3,Taste was fine but portion was small.,2026-02-17 00:28:00,neutral,taste fine portion small
+REV00658,ORD01037,CUST0293,5,Quick delivery and friendly driver.,2026-03-05 00:30:00,positive,quick delivery friendly driver
+REV00659,ORD01039,CUST0025,3,Taste was fine but portion was small.,2026-01-08 14:47:00,neutral,taste fine portion small
+REV00660,ORD01040,CUST0175,3,Taste was fine but portion was small.,2026-01-14 12:18:00,neutral,taste fine portion small
+REV00661,ORD01041,CUST0196,5,Good value and carefully packed.,2026-03-24 00:43:00,positive,good value carefully packed
+REV00662,ORD01042,CUST0298,3,"Food was okay, delivery was average.",2026-03-11 10:20:00,neutral,food okay delivery average
+REV00663,ORD01044,CUST0266,4,Food arrived hot and tasted great.,2026-03-07 19:18:00,positive,food arrived hot tasted great
+REV00664,ORD01045,CUST0191,3,Taste was fine but portion was small.,2026-01-03 09:25:00,neutral,taste fine portion small
+REV00665,ORD01046,CUST0108,4,Good value and carefully packed.,2026-01-08 08:18:00,positive,good value carefully packed
+REV00666,ORD01048,CUST0041,4,Food arrived hot and tasted great.,2026-02-28 05:55:00,positive,food arrived hot tasted great
+REV00667,ORD01051,CUST0011,4,Food arrived hot and tasted great.,2026-01-25 03:50:00,positive,food arrived hot tasted great
+REV00668,ORD01052,CUST0062,4,Good value and carefully packed.,2026-03-18 08:41:00,positive,good value carefully packed
+REV00669,ORD01053,CUST0161,3,"Food was okay, delivery was average.",2026-02-16 05:40:00,neutral,food okay delivery average
+REV00670,ORD01057,CUST0288,5,Good value and carefully packed.,2026-01-06 04:36:00,positive,good value carefully packed
+REV00671,ORD01058,CUST0199,3,"Food was okay, delivery was average.",2026-04-03 04:18:00,neutral,food okay delivery average
+REV00672,ORD01059,CUST0013,2,Packaging was damaged and support was slow.,2026-01-08 05:58:00,negative,packag damaged support slow
+REV00673,ORD01060,CUST0062,4,Good value and carefully packed.,2026-03-27 13:00:00,positive,good value carefully packed
+REV00674,ORD01061,CUST0212,3,"Food was okay, delivery was average.",2026-03-11 10:20:00,neutral,food okay delivery average
+REV00675,ORD01062,CUST0164,4,Quick delivery and friendly driver.,2026-01-17 03:26:00,positive,quick delivery friendly driver
+REV00676,ORD01063,CUST0091,3,Order was as expected.,2026-03-22 18:24:00,neutral,order expected
+REV00677,ORD01064,CUST0157,3,Taste was fine but portion was small.,2026-01-17 23:29:00,neutral,taste fine portion small
+REV00678,ORD01066,CUST0117,3,Order was as expected.,2026-02-25 19:07:00,neutral,order expected
+REV00679,ORD01067,CUST0014,3,Taste was fine but portion was small.,2026-01-30 22:46:00,neutral,taste fine portion small
+REV00680,ORD01068,CUST0094,4,Good value and carefully packed.,2026-01-30 04:10:00,positive,good value carefully packed
+REV00681,ORD01070,CUST0229,5,Fresh food and accurate order.,2026-02-24 16:35:00,positive,fresh food accurate order
+REV00682,ORD01071,CUST0252,4,Food arrived hot and tasted great.,2026-01-05 10:00:00,positive,food arrived hot tasted great
+REV00683,ORD01073,CUST0036,2,Food quality was disappointing.,2026-02-21 19:24:00,negative,food quality disappoint
+REV00684,ORD01074,CUST0085,3,Taste was fine but portion was small.,2026-02-14 18:56:00,neutral,taste fine portion small
+REV00685,ORD01075,CUST0018,4,Good value and carefully packed.,2026-03-08 23:49:00,positive,good value carefully packed
+REV00686,ORD01076,CUST0002,4,Food arrived hot and tasted great.,2026-01-21 11:05:00,positive,food arrived hot tasted great
+REV00687,ORD01077,CUST0251,4,Food arrived hot and tasted great.,2026-03-04 07:24:00,positive,food arrived hot tasted great
+REV00688,ORD01081,CUST0161,4,Quick delivery and friendly driver.,2026-02-21 22:49:00,positive,quick delivery friendly driver
+REV00689,ORD01082,CUST0021,3,Order was as expected.,2026-02-22 02:20:00,neutral,order expected
+REV00690,ORD01084,CUST0262,3,Taste was fine but portion was small.,2026-02-22 20:38:00,neutral,taste fine portion small
+REV00691,ORD01085,CUST0171,5,Food arrived hot and tasted great.,2026-01-17 21:17:00,positive,food arrived hot tasted great
+REV00692,ORD01086,CUST0213,5,Food arrived hot and tasted great.,2026-02-22 04:39:00,positive,food arrived hot tasted great
+REV00693,ORD01087,CUST0120,4,Food arrived hot and tasted great.,2026-03-29 20:40:00,positive,food arrived hot tasted great
+REV00694,ORD01088,CUST0238,5,Good value and carefully packed.,2026-02-22 08:04:00,positive,good value carefully packed
+REV00695,ORD01089,CUST0134,4,Food arrived hot and tasted great.,2026-03-13 12:51:00,positive,food arrived hot tasted great
+REV00696,ORD01092,CUST0052,2,Food quality was disappointing.,2026-03-18 03:33:00,negative,food quality disappoint
+REV00697,ORD01094,CUST0087,5,Good value and carefully packed.,2026-03-11 17:50:00,positive,good value carefully packed
+REV00698,ORD01097,CUST0057,3,Taste was fine but portion was small.,2026-03-28 12:59:00,neutral,taste fine portion small
+REV00699,ORD01098,CUST0155,5,Good value and carefully packed.,2026-03-18 08:05:00,positive,good value carefully packed
+REV00700,ORD01099,CUST0086,4,Quick delivery and friendly driver.,2026-02-07 12:04:00,positive,quick delivery friendly driver
+REV00701,ORD01101,CUST0290,3,"Food was okay, delivery was average.",2026-01-02 07:48:00,neutral,food okay delivery average
+REV00702,ORD01102,CUST0060,3,Taste was fine but portion was small.,2026-01-22 00:19:00,neutral,taste fine portion small
+REV00703,ORD01103,CUST0029,3,Order was as expected.,2026-01-06 15:09:00,neutral,order expected
+REV00704,ORD01104,CUST0203,1,Food quality was disappointing.,2026-01-24 00:50:00,negative,food quality disappoint
+REV00705,ORD01105,CUST0261,2,Packaging was damaged and support was slow.,2026-01-11 20:29:00,negative,packag damaged support slow
+REV00706,ORD01108,CUST0163,4,Good value and carefully packed.,2026-02-26 10:05:00,positive,good value carefully packed
+REV00707,ORD01110,CUST0039,4,Good value and carefully packed.,2026-01-20 16:18:00,positive,good value carefully packed
+REV00708,ORD01112,CUST0186,3,Taste was fine but portion was small.,2026-03-30 08:23:00,neutral,taste fine portion small
+REV00709,ORD01115,CUST0284,2,Packaging was damaged and support was slow.,2026-02-24 02:51:00,negative,packag damaged support slow
+REV00710,ORD01116,CUST0188,4,Good value and carefully packed.,2026-03-03 14:55:00,positive,good value carefully packed
+REV00711,ORD01118,CUST0277,3,"Food was okay, delivery was average.",2026-03-22 17:13:00,neutral,food okay delivery average
+REV00712,ORD01120,CUST0091,4,Good value and carefully packed.,2026-01-25 20:41:00,positive,good value carefully packed
+REV00713,ORD01122,CUST0117,4,Good value and carefully packed.,2026-02-28 23:31:00,positive,good value carefully packed
+REV00714,ORD01123,CUST0164,4,Quick delivery and friendly driver.,2026-01-05 04:03:00,positive,quick delivery friendly driver
+REV00715,ORD01124,CUST0290,4,Good value and carefully packed.,2026-03-16 14:41:00,positive,good value carefully packed
+REV00716,ORD01125,CUST0270,5,Fresh food and accurate order.,2026-01-26 06:04:00,positive,fresh food accurate order
+REV00717,ORD01126,CUST0065,5,Food arrived hot and tasted great.,2026-01-11 17:57:00,positive,food arrived hot tasted great
+REV00718,ORD01127,CUST0292,5,Fresh food and accurate order.,2026-02-03 18:05:00,positive,fresh food accurate order
+REV00719,ORD01128,CUST0132,4,Good value and carefully packed.,2026-03-20 05:15:00,positive,good value carefully packed
+REV00720,ORD01129,CUST0212,3,"Food was okay, delivery was average.",2026-01-28 16:22:00,neutral,food okay delivery average
+REV00721,ORD01130,CUST0230,3,"Food was okay, delivery was average.",2026-02-19 12:39:00,neutral,food okay delivery average
+REV00722,ORD01133,CUST0137,5,Quick delivery and friendly driver.,2026-03-13 09:26:00,positive,quick delivery friendly driver
+REV00723,ORD01134,CUST0259,5,Food arrived hot and tasted great.,2026-01-29 23:34:00,positive,food arrived hot tasted great
+REV00724,ORD01135,CUST0116,4,Fresh food and accurate order.,2026-03-07 14:23:00,positive,fresh food accurate order
+REV00725,ORD01136,CUST0084,3,Order was as expected.,2026-01-21 22:16:00,neutral,order expected
+REV00726,ORD01138,CUST0059,5,Good value and carefully packed.,2026-03-16 22:43:00,positive,good value carefully packed
+REV00727,ORD01139,CUST0118,3,"Food was okay, delivery was average.",2026-03-15 16:55:00,neutral,food okay delivery average
+REV00728,ORD01140,CUST0035,5,Fresh food and accurate order.,2026-04-01 07:39:00,positive,fresh food accurate order
+REV00729,ORD01141,CUST0027,4,Good value and carefully packed.,2026-03-03 22:42:00,positive,good value carefully packed
+REV00730,ORD01143,CUST0024,4,Quick delivery and friendly driver.,2026-01-21 12:50:00,positive,quick delivery friendly driver
+REV00731,ORD01144,CUST0171,4,Food arrived hot and tasted great.,2026-01-28 13:40:00,positive,food arrived hot tasted great
+REV00732,ORD01145,CUST0234,4,Food arrived hot and tasted great.,2026-03-02 07:52:00,positive,food arrived hot tasted great
+REV00733,ORD01147,CUST0134,4,Quick delivery and friendly driver.,2026-02-13 12:23:00,positive,quick delivery friendly driver
+REV00734,ORD01148,CUST0059,3,Taste was fine but portion was small.,2026-01-19 03:01:00,neutral,taste fine portion small
+REV00735,ORD01149,CUST0280,5,Good value and carefully packed.,2026-02-11 12:59:00,positive,good value carefully packed
+REV00736,ORD01151,CUST0184,4,Good value and carefully packed.,2026-01-15 02:11:00,positive,good value carefully packed
+REV00737,ORD01152,CUST0027,5,Good value and carefully packed.,2026-01-16 21:00:00,positive,good value carefully packed
+REV00738,ORD01155,CUST0048,5,Quick delivery and friendly driver.,2026-01-10 23:51:00,positive,quick delivery friendly driver
+REV00739,ORD01156,CUST0259,2,Order was missing an item.,2026-02-20 06:53:00,negative,order miss item
+REV00740,ORD01157,CUST0062,4,Food arrived hot and tasted great.,2026-01-15 18:47:00,positive,food arrived hot tasted great
+REV00741,ORD01158,CUST0085,1,Food quality was disappointing.,2026-01-03 09:21:00,negative,food quality disappoint
+REV00742,ORD01159,CUST0293,5,Fresh food and accurate order.,2026-01-13 22:18:00,positive,fresh food accurate order
+REV00743,ORD01161,CUST0066,3,Order was as expected.,2026-03-29 20:52:00,neutral,order expected
+REV00744,ORD01162,CUST0116,2,Delivery was late and the food was cold.,2026-01-26 18:00:00,negative,delivery late food cold
+REV00745,ORD01163,CUST0155,2,Delivery was late and the food was cold.,2026-01-29 15:18:00,negative,delivery late food cold
+REV00746,ORD01164,CUST0200,5,Fresh food and accurate order.,2026-01-26 20:08:00,positive,fresh food accurate order
+REV00747,ORD01165,CUST0281,5,Good value and carefully packed.,2026-02-04 23:14:00,positive,good value carefully packed
+REV00748,ORD01166,CUST0262,3,"Food was okay, delivery was average.",2026-03-10 13:25:00,neutral,food okay delivery average
+REV00749,ORD01167,CUST0294,3,Taste was fine but portion was small.,2026-01-29 23:41:00,neutral,taste fine portion small
+REV00750,ORD01168,CUST0013,4,Quick delivery and friendly driver.,2026-03-05 04:20:00,positive,quick delivery friendly driver
+REV00751,ORD01170,CUST0169,3,Taste was fine but portion was small.,2026-03-30 03:45:00,neutral,taste fine portion small
+REV00752,ORD01171,CUST0015,4,Fresh food and accurate order.,2026-02-24 16:00:00,positive,fresh food accurate order
+REV00753,ORD01173,CUST0047,3,Order was as expected.,2026-03-26 17:23:00,neutral,order expected
+REV00754,ORD01174,CUST0280,5,Fresh food and accurate order.,2026-03-13 19:15:00,positive,fresh food accurate order
+REV00755,ORD01176,CUST0045,4,Fresh food and accurate order.,2026-01-16 21:10:00,positive,fresh food accurate order
+REV00756,ORD01181,CUST0274,3,Order was as expected.,2026-02-03 02:21:00,neutral,order expected
+REV00757,ORD01182,CUST0079,2,Order was missing an item.,2026-01-28 08:25:00,negative,order miss item
+REV00758,ORD01183,CUST0162,2,Packaging was damaged and support was slow.,2026-03-18 04:07:00,negative,packag damaged support slow
+REV00759,ORD01185,CUST0188,3,"Food was okay, delivery was average.",2026-03-24 03:33:00,neutral,food okay delivery average
+REV00760,ORD01186,CUST0239,3,Taste was fine but portion was small.,2026-01-30 03:49:00,neutral,taste fine portion small
+REV00761,ORD01187,CUST0061,4,Fresh food and accurate order.,2026-02-15 12:45:00,positive,fresh food accurate order
+REV00762,ORD01188,CUST0153,4,Good value and carefully packed.,2026-01-11 22:56:00,positive,good value carefully packed
+REV00763,ORD01189,CUST0241,4,Food arrived hot and tasted great.,2026-03-29 10:08:00,positive,food arrived hot tasted great
+REV00764,ORD01190,CUST0259,4,Quick delivery and friendly driver.,2026-02-20 01:37:00,positive,quick delivery friendly driver
+REV00765,ORD01191,CUST0186,5,Food arrived hot and tasted great.,2026-02-21 18:30:00,positive,food arrived hot tasted great
+REV00766,ORD01192,CUST0196,4,Good value and carefully packed.,2026-02-09 05:31:00,positive,good value carefully packed
+REV00767,ORD01195,CUST0285,5,Quick delivery and friendly driver.,2026-02-14 00:11:00,positive,quick delivery friendly driver
+REV00768,ORD01196,CUST0039,2,Order was missing an item.,2026-03-05 17:30:00,negative,order miss item
+REV00769,ORD01197,CUST0105,4,Fresh food and accurate order.,2026-01-05 08:35:00,positive,fresh food accurate order
+REV00770,ORD01199,CUST0028,4,Food arrived hot and tasted great.,2026-03-17 08:38:00,positive,food arrived hot tasted great
+REV00771,ORD01200,CUST0142,5,Food arrived hot and tasted great.,2026-01-12 21:43:00,positive,food arrived hot tasted great
+REV00772,ORD01201,CUST0068,4,Good value and carefully packed.,2026-01-12 03:05:00,positive,good value carefully packed
+REV00773,ORD01202,CUST0123,3,Taste was fine but portion was small.,2026-03-16 21:15:00,neutral,taste fine portion small
+REV00774,ORD01204,CUST0187,5,Quick delivery and friendly driver.,2026-01-25 15:34:00,positive,quick delivery friendly driver
+REV00775,ORD01207,CUST0114,4,Good value and carefully packed.,2026-01-06 20:49:00,positive,good value carefully packed
+REV00776,ORD01208,CUST0098,4,Food arrived hot and tasted great.,2026-01-04 09:36:00,positive,food arrived hot tasted great
+REV00777,ORD01210,CUST0038,2,Food quality was disappointing.,2026-01-18 06:25:00,negative,food quality disappoint
+REV00778,ORD01211,CUST0163,4,Fresh food and accurate order.,2026-03-06 15:36:00,positive,fresh food accurate order
+REV00779,ORD01213,CUST0055,3,Order was as expected.,2026-01-11 11:02:00,neutral,order expected
+REV00780,ORD01214,CUST0185,3,"Food was okay, delivery was average.",2026-01-05 07:09:00,neutral,food okay delivery average
+REV00781,ORD01217,CUST0196,3,Taste was fine but portion was small.,2026-01-31 11:34:00,neutral,taste fine portion small
+REV00782,ORD01219,CUST0202,5,Fresh food and accurate order.,2026-01-23 12:39:00,positive,fresh food accurate order
+REV00783,ORD01220,CUST0049,4,Food arrived hot and tasted great.,2026-02-17 22:38:00,positive,food arrived hot tasted great
+REV00784,ORD01225,CUST0217,5,Fresh food and accurate order.,2026-03-29 15:19:00,positive,fresh food accurate order
+REV00785,ORD01227,CUST0051,4,Food arrived hot and tasted great.,2026-01-16 14:47:00,positive,food arrived hot tasted great
+REV00786,ORD01228,CUST0215,5,Quick delivery and friendly driver.,2026-03-29 10:41:00,positive,quick delivery friendly driver
+REV00787,ORD01230,CUST0229,4,Good value and carefully packed.,2026-01-31 03:20:00,positive,good value carefully packed
+REV00788,ORD01231,CUST0057,4,Good value and carefully packed.,2026-02-27 12:41:00,positive,good value carefully packed
+REV00789,ORD01233,CUST0033,3,Order was as expected.,2026-03-03 17:59:00,neutral,order expected
+REV00790,ORD01234,CUST0177,5,Quick delivery and friendly driver.,2026-03-04 02:39:00,positive,quick delivery friendly driver
+REV00791,ORD01235,CUST0150,4,Good value and carefully packed.,2026-03-07 21:26:00,positive,good value carefully packed
+REV00792,ORD01236,CUST0160,5,Fresh food and accurate order.,2026-02-24 04:28:00,positive,fresh food accurate order
+REV00793,ORD01237,CUST0156,3,"Food was okay, delivery was average.",2026-03-09 08:53:00,neutral,food okay delivery average
+REV00794,ORD01239,CUST0153,2,Packaging was damaged and support was slow.,2026-03-15 18:47:00,negative,packag damaged support slow
+REV00795,ORD01240,CUST0282,4,Good value and carefully packed.,2026-01-19 03:54:00,positive,good value carefully packed
+REV00796,ORD01243,CUST0299,3,Taste was fine but portion was small.,2026-02-22 00:03:00,neutral,taste fine portion small
+REV00797,ORD01244,CUST0030,4,Quick delivery and friendly driver.,2026-01-16 18:53:00,positive,quick delivery friendly driver
+REV00798,ORD01245,CUST0146,3,Taste was fine but portion was small.,2026-02-01 03:27:00,neutral,taste fine portion small
+REV00799,ORD01246,CUST0154,3,Taste was fine but portion was small.,2026-03-31 20:56:00,neutral,taste fine portion small
+REV00800,ORD01248,CUST0277,4,Quick delivery and friendly driver.,2026-02-28 04:15:00,positive,quick delivery friendly driver
+REV00801,ORD01249,CUST0127,5,Quick delivery and friendly driver.,2026-03-02 19:37:00,positive,quick delivery friendly driver
+REV00802,ORD01250,CUST0292,2,Order was missing an item.,2026-02-12 16:57:00,negative,order miss item
+REV00803,ORD01251,CUST0021,4,Quick delivery and friendly driver.,2026-01-07 00:35:00,positive,quick delivery friendly driver
+REV00804,ORD01256,CUST0216,4,Good value and carefully packed.,2026-01-15 09:51:00,positive,good value carefully packed
+REV00805,ORD01258,CUST0184,3,Taste was fine but portion was small.,2026-03-19 11:06:00,neutral,taste fine portion small
+REV00806,ORD01261,CUST0295,4,Fresh food and accurate order.,2026-03-02 13:30:00,positive,fresh food accurate order
+REV00807,ORD01263,CUST0141,5,Food arrived hot and tasted great.,2026-02-10 21:28:00,positive,food arrived hot tasted great
+REV00808,ORD01265,CUST0270,4,Good value and carefully packed.,2026-01-13 02:46:00,positive,good value carefully packed
+REV00809,ORD01266,CUST0085,3,Taste was fine but portion was small.,2026-01-15 22:24:00,neutral,taste fine portion small
+REV00810,ORD01267,CUST0143,3,Taste was fine but portion was small.,2026-02-12 00:05:00,neutral,taste fine portion small
+REV00811,ORD01268,CUST0216,4,Good value and carefully packed.,2026-02-12 16:15:00,positive,good value carefully packed
+REV00812,ORD01275,CUST0235,4,Quick delivery and friendly driver.,2026-02-16 05:46:00,positive,quick delivery friendly driver
+REV00813,ORD01276,CUST0272,3,Taste was fine but portion was small.,2026-01-26 09:56:00,neutral,taste fine portion small
+REV00814,ORD01277,CUST0129,4,Fresh food and accurate order.,2026-02-16 19:52:00,positive,fresh food accurate order
+REV00815,ORD01279,CUST0192,4,Fresh food and accurate order.,2026-03-28 23:12:00,positive,fresh food accurate order
+REV00816,ORD01280,CUST0058,1,Food quality was disappointing.,2026-02-04 07:24:00,negative,food quality disappoint
+REV00817,ORD01281,CUST0257,3,Taste was fine but portion was small.,2026-03-12 01:35:00,neutral,taste fine portion small
+REV00818,ORD01282,CUST0232,3,"Food was okay, delivery was average.",2026-03-30 02:28:00,neutral,food okay delivery average
+REV00819,ORD01283,CUST0190,3,Taste was fine but portion was small.,2026-02-14 17:28:00,neutral,taste fine portion small
+REV00820,ORD01284,CUST0091,4,Quick delivery and friendly driver.,2026-03-21 13:32:00,positive,quick delivery friendly driver
+REV00821,ORD01285,CUST0105,3,Order was as expected.,2026-02-15 03:07:00,neutral,order expected
+REV00822,ORD01287,CUST0199,5,Food arrived hot and tasted great.,2026-01-06 09:11:00,positive,food arrived hot tasted great
+REV00823,ORD01288,CUST0234,4,Quick delivery and friendly driver.,2026-01-15 04:56:00,positive,quick delivery friendly driver
+REV00824,ORD01292,CUST0212,5,Fresh food and accurate order.,2026-02-13 03:29:00,positive,fresh food accurate order
+REV00825,ORD01295,CUST0128,4,Fresh food and accurate order.,2026-04-03 22:43:00,positive,fresh food accurate order
+REV00826,ORD01298,CUST0111,4,Quick delivery and friendly driver.,2026-02-01 04:53:00,positive,quick delivery friendly driver
+REV00827,ORD01300,CUST0014,3,Taste was fine but portion was small.,2026-03-27 23:58:00,neutral,taste fine portion small
+REV00828,ORD01302,CUST0147,3,"Food was okay, delivery was average.",2026-01-20 12:44:00,neutral,food okay delivery average
+REV00829,ORD01303,CUST0138,4,Fresh food and accurate order.,2026-01-05 07:05:00,positive,fresh food accurate order
+REV00830,ORD01304,CUST0160,3,Taste was fine but portion was small.,2026-02-12 09:58:00,neutral,taste fine portion small
+REV00831,ORD01305,CUST0065,4,Good value and carefully packed.,2026-02-26 23:10:00,positive,good value carefully packed
+REV00832,ORD01308,CUST0105,3,Taste was fine but portion was small.,2026-01-13 10:53:00,neutral,taste fine portion small
+REV00833,ORD01309,CUST0040,3,"Food was okay, delivery was average.",2026-03-27 00:07:00,neutral,food okay delivery average
+REV00834,ORD01310,CUST0117,4,Good value and carefully packed.,2026-03-17 12:46:00,positive,good value carefully packed
+REV00835,ORD01311,CUST0060,2,Delivery was late and the food was cold.,2026-03-28 07:43:00,negative,delivery late food cold
+REV00836,ORD01312,CUST0113,4,Good value and carefully packed.,2026-02-17 18:32:00,positive,good value carefully packed
+REV00837,ORD01313,CUST0189,5,Good value and carefully packed.,2026-02-21 03:28:00,positive,good value carefully packed
+REV00838,ORD01315,CUST0225,4,Fresh food and accurate order.,2026-02-27 11:56:00,positive,fresh food accurate order
+REV00839,ORD01317,CUST0269,5,Fresh food and accurate order.,2026-01-27 06:29:00,positive,fresh food accurate order
+REV00840,ORD01318,CUST0220,5,Quick delivery and friendly driver.,2026-02-13 16:41:00,positive,quick delivery friendly driver
+REV00841,ORD01320,CUST0169,5,Good value and carefully packed.,2026-01-19 07:41:00,positive,good value carefully packed
+REV00842,ORD01326,CUST0085,3,Taste was fine but portion was small.,2026-03-17 05:48:00,neutral,taste fine portion small
+REV00843,ORD01328,CUST0119,3,Order was as expected.,2026-01-30 09:48:00,neutral,order expected
+REV00844,ORD01332,CUST0057,3,"Food was okay, delivery was average.",2026-03-17 18:29:00,neutral,food okay delivery average
+REV00845,ORD01336,CUST0051,4,Food arrived hot and tasted great.,2026-02-20 12:39:00,positive,food arrived hot tasted great
+REV00846,ORD01337,CUST0213,3,Taste was fine but portion was small.,2026-02-25 09:18:00,neutral,taste fine portion small
+REV00847,ORD01338,CUST0251,4,Good value and carefully packed.,2026-01-21 00:40:00,positive,good value carefully packed
+REV00848,ORD01339,CUST0053,5,Good value and carefully packed.,2026-03-21 05:14:00,positive,good value carefully packed
+REV00849,ORD01341,CUST0108,5,Quick delivery and friendly driver.,2026-02-10 14:02:00,positive,quick delivery friendly driver
+REV00850,ORD01342,CUST0237,3,"Food was okay, delivery was average.",2026-01-09 07:45:00,neutral,food okay delivery average
+REV00851,ORD01344,CUST0241,5,Quick delivery and friendly driver.,2026-03-24 20:46:00,positive,quick delivery friendly driver
+REV00852,ORD01346,CUST0117,5,Good value and carefully packed.,2026-02-26 02:57:00,positive,good value carefully packed
+REV00853,ORD01347,CUST0083,4,Fresh food and accurate order.,2026-01-23 01:45:00,positive,fresh food accurate order
+REV00854,ORD01348,CUST0075,3,"Food was okay, delivery was average.",2026-01-11 01:44:00,neutral,food okay delivery average
+REV00855,ORD01349,CUST0093,4,Quick delivery and friendly driver.,2026-03-26 23:21:00,positive,quick delivery friendly driver
+REV00856,ORD01350,CUST0115,5,Quick delivery and friendly driver.,2026-02-16 11:11:00,positive,quick delivery friendly driver
+REV00857,ORD01351,CUST0039,4,Fresh food and accurate order.,2026-01-28 17:56:00,positive,fresh food accurate order
+REV00858,ORD01352,CUST0213,4,Quick delivery and friendly driver.,2026-03-04 09:22:00,positive,quick delivery friendly driver
+REV00859,ORD01353,CUST0166,5,Good value and carefully packed.,2026-01-04 08:35:00,positive,good value carefully packed
+REV00860,ORD01355,CUST0212,3,Taste was fine but portion was small.,2026-01-25 20:10:00,neutral,taste fine portion small
+REV00861,ORD01356,CUST0045,4,Fresh food and accurate order.,2026-02-12 13:24:00,positive,fresh food accurate order
+REV00862,ORD01358,CUST0127,5,Good value and carefully packed.,2026-01-19 20:40:00,positive,good value carefully packed
+REV00863,ORD01360,CUST0073,4,Quick delivery and friendly driver.,2026-02-01 01:14:00,positive,quick delivery friendly driver
+REV00864,ORD01361,CUST0235,3,"Food was okay, delivery was average.",2026-02-20 05:16:00,neutral,food okay delivery average
+REV00865,ORD01362,CUST0175,2,Order was missing an item.,2026-02-21 15:31:00,negative,order miss item
+REV00866,ORD01363,CUST0225,3,Taste was fine but portion was small.,2026-03-21 11:33:00,neutral,taste fine portion small
+REV00867,ORD01364,CUST0033,3,Taste was fine but portion was small.,2026-03-16 14:38:00,neutral,taste fine portion small
+REV00868,ORD01365,CUST0245,5,Quick delivery and friendly driver.,2026-01-31 07:27:00,positive,quick delivery friendly driver
+REV00869,ORD01366,CUST0062,4,Quick delivery and friendly driver.,2026-03-26 05:45:00,positive,quick delivery friendly driver
+REV00870,ORD01367,CUST0135,3,Taste was fine but portion was small.,2026-02-17 20:51:00,neutral,taste fine portion small
+REV00871,ORD01368,CUST0132,4,Food arrived hot and tasted great.,2026-01-17 21:23:00,positive,food arrived hot tasted great
+REV00872,ORD01371,CUST0073,2,Order was missing an item.,2026-03-19 23:01:00,negative,order miss item
+REV00873,ORD01373,CUST0109,3,Taste was fine but portion was small.,2026-01-16 04:25:00,neutral,taste fine portion small
+REV00874,ORD01374,CUST0055,4,Good value and carefully packed.,2026-01-22 06:28:00,positive,good value carefully packed
+REV00875,ORD01375,CUST0053,5,Fresh food and accurate order.,2026-01-13 07:34:00,positive,fresh food accurate order
+REV00876,ORD01380,CUST0216,3,Taste was fine but portion was small.,2026-03-20 13:55:00,neutral,taste fine portion small
+REV00877,ORD01381,CUST0073,2,Delivery was late and the food was cold.,2026-03-13 14:20:00,negative,delivery late food cold
+REV00878,ORD01382,CUST0273,5,Good value and carefully packed.,2026-01-14 08:13:00,positive,good value carefully packed
+REV00879,ORD01384,CUST0053,5,Good value and carefully packed.,2026-03-21 10:13:00,positive,good value carefully packed
+REV00880,ORD01385,CUST0095,5,Fresh food and accurate order.,2026-03-12 15:30:00,positive,fresh food accurate order
+REV00881,ORD01386,CUST0056,4,Quick delivery and friendly driver.,2026-02-01 15:31:00,positive,quick delivery friendly driver
+REV00882,ORD01387,CUST0082,3,Taste was fine but portion was small.,2026-02-08 08:15:00,neutral,taste fine portion small
+REV00883,ORD01388,CUST0110,4,Good value and carefully packed.,2026-03-24 02:49:00,positive,good value carefully packed
+REV00884,ORD01391,CUST0132,4,Good value and carefully packed.,2026-01-14 10:46:00,positive,good value carefully packed
+REV00885,ORD01392,CUST0211,3,"Food was okay, delivery was average.",2026-03-22 12:18:00,neutral,food okay delivery average
+REV00886,ORD01393,CUST0091,3,Order was as expected.,2026-01-07 11:38:00,neutral,order expected
+REV00887,ORD01394,CUST0259,4,Fresh food and accurate order.,2026-01-06 02:31:00,positive,fresh food accurate order
+REV00888,ORD01396,CUST0271,5,Quick delivery and friendly driver.,2026-01-21 00:21:00,positive,quick delivery friendly driver
+REV00889,ORD01398,CUST0162,3,Order was as expected.,2026-01-30 23:04:00,neutral,order expected
+REV00890,ORD01399,CUST0229,5,Quick delivery and friendly driver.,2026-02-03 01:38:00,positive,quick delivery friendly driver
+REV00891,ORD01401,CUST0280,3,"Food was okay, delivery was average.",2026-02-23 10:53:00,neutral,food okay delivery average
+REV00892,ORD01404,CUST0189,4,Quick delivery and friendly driver.,2026-02-24 18:44:00,positive,quick delivery friendly driver
+REV00893,ORD01405,CUST0193,1,Food quality was disappointing.,2026-03-03 00:21:00,negative,food quality disappoint
+REV00894,ORD01409,CUST0300,4,Good value and carefully packed.,2026-01-30 15:01:00,positive,good value carefully packed
+REV00895,ORD01410,CUST0142,4,Good value and carefully packed.,2026-01-17 01:12:00,positive,good value carefully packed
+REV00896,ORD01411,CUST0185,5,Quick delivery and friendly driver.,2026-02-05 03:49:00,positive,quick delivery friendly driver
+REV00897,ORD01412,CUST0133,5,Good value and carefully packed.,2026-01-27 18:05:00,positive,good value carefully packed
+REV00898,ORD01413,CUST0267,4,Good value and carefully packed.,2026-02-26 15:55:00,positive,good value carefully packed
+REV00899,ORD01414,CUST0250,4,Food arrived hot and tasted great.,2026-03-23 17:40:00,positive,food arrived hot tasted great
+REV00900,ORD01415,CUST0273,4,Quick delivery and friendly driver.,2026-02-27 16:17:00,positive,quick delivery friendly driver
+REV00901,ORD01421,CUST0025,4,Good value and carefully packed.,2026-03-08 11:08:00,positive,good value carefully packed
+REV00902,ORD01423,CUST0005,3,"Food was okay, delivery was average.",2026-03-03 06:24:00,neutral,food okay delivery average
+REV00903,ORD01424,CUST0175,3,Taste was fine but portion was small.,2026-02-05 19:55:00,neutral,taste fine portion small
+REV00904,ORD01425,CUST0144,5,Fresh food and accurate order.,2026-01-15 03:42:00,positive,fresh food accurate order
+REV00905,ORD01426,CUST0141,4,Quick delivery and friendly driver.,2026-02-04 11:54:00,positive,quick delivery friendly driver
+REV00906,ORD01429,CUST0123,4,Quick delivery and friendly driver.,2026-03-25 08:14:00,positive,quick delivery friendly driver
+REV00907,ORD01430,CUST0136,4,Food arrived hot and tasted great.,2026-02-17 12:14:00,positive,food arrived hot tasted great
+REV00908,ORD01432,CUST0230,5,Food arrived hot and tasted great.,2026-03-22 02:51:00,positive,food arrived hot tasted great
+REV00909,ORD01433,CUST0166,3,"Food was okay, delivery was average.",2026-03-22 23:09:00,neutral,food okay delivery average
+REV00910,ORD01435,CUST0251,3,Order was as expected.,2026-01-16 16:27:00,neutral,order expected
+REV00911,ORD01436,CUST0297,5,Quick delivery and friendly driver.,2026-02-06 17:47:00,positive,quick delivery friendly driver
+REV00912,ORD01437,CUST0033,2,Order was missing an item.,2026-02-18 15:39:00,negative,order miss item
+REV00913,ORD01438,CUST0214,3,Order was as expected.,2026-03-07 07:38:00,neutral,order expected
+REV00914,ORD01439,CUST0068,4,Good value and carefully packed.,2026-02-10 04:34:00,positive,good value carefully packed
+REV00915,ORD01440,CUST0060,5,Fresh food and accurate order.,2026-02-28 01:18:00,positive,fresh food accurate order
+REV00916,ORD01441,CUST0238,4,Fresh food and accurate order.,2026-01-05 21:52:00,positive,fresh food accurate order
+REV00917,ORD01443,CUST0255,4,Food arrived hot and tasted great.,2026-03-25 09:15:00,positive,food arrived hot tasted great
+REV00918,ORD01444,CUST0232,5,Food arrived hot and tasted great.,2026-02-20 08:36:00,positive,food arrived hot tasted great
+REV00919,ORD01445,CUST0299,5,Fresh food and accurate order.,2026-02-11 22:38:00,positive,fresh food accurate order
+REV00920,ORD01447,CUST0262,3,Order was as expected.,2026-03-27 21:13:00,neutral,order expected
+REV00921,ORD01448,CUST0036,4,Quick delivery and friendly driver.,2026-01-05 23:43:00,positive,quick delivery friendly driver
+REV00922,ORD01450,CUST0049,4,Food arrived hot and tasted great.,2026-01-17 11:36:00,positive,food arrived hot tasted great
+REV00923,ORD01452,CUST0039,3,"Food was okay, delivery was average.",2026-02-17 10:25:00,neutral,food okay delivery average
+REV00924,ORD01453,CUST0121,5,Good value and carefully packed.,2026-03-29 00:21:00,positive,good value carefully packed
+REV00925,ORD01454,CUST0225,4,Good value and carefully packed.,2026-03-02 20:44:00,positive,good value carefully packed
+REV00926,ORD01455,CUST0081,4,Food arrived hot and tasted great.,2026-02-23 02:45:00,positive,food arrived hot tasted great
+REV00927,ORD01456,CUST0247,3,"Food was okay, delivery was average.",2026-02-19 13:44:00,neutral,food okay delivery average
+REV00928,ORD01460,CUST0130,3,Taste was fine but portion was small.,2026-03-31 21:08:00,neutral,taste fine portion small
+REV00929,ORD01461,CUST0104,2,Order was missing an item.,2026-02-20 09:47:00,negative,order miss item
+REV00930,ORD01462,CUST0299,3,"Food was okay, delivery was average.",2026-03-29 11:53:00,neutral,food okay delivery average
+REV00931,ORD01463,CUST0168,3,"Food was okay, delivery was average.",2026-03-30 00:11:00,neutral,food okay delivery average
+REV00932,ORD01464,CUST0185,5,Good value and carefully packed.,2026-02-20 00:42:00,positive,good value carefully packed
+REV00933,ORD01465,CUST0089,4,Good value and carefully packed.,2026-02-13 12:49:00,positive,good value carefully packed
+REV00934,ORD01466,CUST0065,5,Good value and carefully packed.,2026-01-15 20:14:00,positive,good value carefully packed
+REV00935,ORD01467,CUST0051,3,Taste was fine but portion was small.,2026-01-26 03:59:00,neutral,taste fine portion small
+REV00936,ORD01468,CUST0068,5,Quick delivery and friendly driver.,2026-03-21 02:50:00,positive,quick delivery friendly driver
+REV00937,ORD01472,CUST0189,4,Fresh food and accurate order.,2026-01-26 15:44:00,positive,fresh food accurate order
+REV00938,ORD01473,CUST0285,4,Quick delivery and friendly driver.,2026-03-31 16:04:00,positive,quick delivery friendly driver
+REV00939,ORD01474,CUST0230,4,Fresh food and accurate order.,2026-02-28 10:53:00,positive,fresh food accurate order
+REV00940,ORD01475,CUST0121,4,Fresh food and accurate order.,2026-01-06 13:13:00,positive,fresh food accurate order
+REV00941,ORD01476,CUST0018,3,Order was as expected.,2026-01-27 05:53:00,neutral,order expected
+REV00942,ORD01477,CUST0251,4,Quick delivery and friendly driver.,2026-03-11 15:21:00,positive,quick delivery friendly driver
+REV00943,ORD01478,CUST0001,2,Delivery was late and the food was cold.,2026-03-19 16:29:00,negative,delivery late food cold
+REV00944,ORD01479,CUST0205,4,Quick delivery and friendly driver.,2026-03-27 10:10:00,positive,quick delivery friendly driver
+REV00945,ORD01480,CUST0202,4,Food arrived hot and tasted great.,2026-03-18 14:31:00,positive,food arrived hot tasted great
+REV00946,ORD01483,CUST0053,4,Quick delivery and friendly driver.,2026-01-13 21:58:00,positive,quick delivery friendly driver
+REV00947,ORD01486,CUST0294,2,Food quality was disappointing.,2026-02-14 00:50:00,negative,food quality disappoint
+REV00948,ORD01487,CUST0080,5,Food arrived hot and tasted great.,2026-03-01 07:36:00,positive,food arrived hot tasted great
+REV00949,ORD01488,CUST0277,3,"Food was okay, delivery was average.",2026-03-18 15:12:00,neutral,food okay delivery average
+REV00950,ORD01490,CUST0231,5,Quick delivery and friendly driver.,2026-02-21 11:27:00,positive,quick delivery friendly driver
+REV00951,ORD01492,CUST0090,3,Order was as expected.,2026-02-13 15:01:00,neutral,order expected
+REV00952,ORD01493,CUST0204,4,Food arrived hot and tasted great.,2026-02-20 02:35:00,positive,food arrived hot tasted great
+REV00953,ORD01494,CUST0300,2,Order was missing an item.,2026-02-16 19:21:00,negative,order miss item
+REV00954,ORD01495,CUST0245,2,Packaging was damaged and support was slow.,2026-03-24 15:32:00,negative,packag damaged support slow
+REV00955,ORD01499,CUST0083,4,Good value and carefully packed.,2026-03-17 03:01:00,positive,good value carefully packed
+REV00956,ORD01502,CUST0169,4,Good value and carefully packed.,2026-02-03 05:00:00,positive,good value carefully packed
+REV00957,ORD01506,CUST0296,4,Good value and carefully packed.,2026-03-09 02:25:00,positive,good value carefully packed
+REV00958,ORD01507,CUST0130,4,Quick delivery and friendly driver.,2026-01-14 01:45:00,positive,quick delivery friendly driver
+REV00959,ORD01508,CUST0210,3,Taste was fine but portion was small.,2026-03-16 00:04:00,neutral,taste fine portion small
+REV00960,ORD01509,CUST0076,4,Fresh food and accurate order.,2026-03-01 07:06:00,positive,fresh food accurate order
+REV00961,ORD01510,CUST0233,3,"Food was okay, delivery was average.",2026-04-01 18:50:00,neutral,food okay delivery average
+REV00962,ORD01512,CUST0183,4,Fresh food and accurate order.,2026-02-20 14:29:00,positive,fresh food accurate order
+REV00963,ORD01514,CUST0174,3,Taste was fine but portion was small.,2026-02-22 10:56:00,neutral,taste fine portion small
+REV00964,ORD01515,CUST0114,3,Order was as expected.,2026-01-07 21:27:00,neutral,order expected
+REV00965,ORD01516,CUST0222,4,Food arrived hot and tasted great.,2026-02-16 13:56:00,positive,food arrived hot tasted great
+REV00966,ORD01517,CUST0251,4,Good value and carefully packed.,2026-01-29 22:56:00,positive,good value carefully packed
+REV00967,ORD01520,CUST0203,4,Fresh food and accurate order.,2026-02-11 03:42:00,positive,fresh food accurate order
+REV00968,ORD01521,CUST0002,5,Food arrived hot and tasted great.,2026-02-27 19:16:00,positive,food arrived hot tasted great
+REV00969,ORD01522,CUST0172,4,Quick delivery and friendly driver.,2026-01-09 18:20:00,positive,quick delivery friendly driver
+REV00970,ORD01524,CUST0110,3,"Food was okay, delivery was average.",2026-03-09 09:59:00,neutral,food okay delivery average
+REV00971,ORD01525,CUST0299,4,Quick delivery and friendly driver.,2026-01-06 03:46:00,positive,quick delivery friendly driver
+REV00972,ORD01528,CUST0063,5,Quick delivery and friendly driver.,2026-01-28 11:59:00,positive,quick delivery friendly driver
+REV00973,ORD01529,CUST0063,2,Packaging was damaged and support was slow.,2026-03-20 11:15:00,negative,packag damaged support slow
+REV00974,ORD01530,CUST0270,4,Quick delivery and friendly driver.,2026-02-14 22:23:00,positive,quick delivery friendly driver
+REV00975,ORD01532,CUST0219,2,Order was missing an item.,2026-01-29 14:53:00,negative,order miss item
+REV00976,ORD01534,CUST0231,4,Food arrived hot and tasted great.,2026-01-13 21:00:00,positive,food arrived hot tasted great
+REV00977,ORD01535,CUST0027,4,Quick delivery and friendly driver.,2026-02-09 05:38:00,positive,quick delivery friendly driver
+REV00978,ORD01537,CUST0119,4,Quick delivery and friendly driver.,2026-01-18 21:03:00,positive,quick delivery friendly driver
+REV00979,ORD01539,CUST0225,4,Food arrived hot and tasted great.,2026-02-20 13:54:00,positive,food arrived hot tasted great
+REV00980,ORD01540,CUST0047,3,Order was as expected.,2026-03-05 23:32:00,neutral,order expected
+REV00981,ORD01541,CUST0112,3,"Food was okay, delivery was average.",2026-01-12 18:32:00,neutral,food okay delivery average
+REV00982,ORD01542,CUST0071,3,Taste was fine but portion was small.,2026-03-22 12:22:00,neutral,taste fine portion small
+REV00983,ORD01543,CUST0057,4,Good value and carefully packed.,2026-03-23 01:29:00,positive,good value carefully packed
+REV00984,ORD01546,CUST0170,5,Quick delivery and friendly driver.,2026-02-09 12:21:00,positive,quick delivery friendly driver
+REV00985,ORD01549,CUST0144,3,Order was as expected.,2026-02-20 15:03:00,neutral,order expected
+REV00986,ORD01550,CUST0223,4,Quick delivery and friendly driver.,2026-01-18 03:43:00,positive,quick delivery friendly driver
+REV00987,ORD01551,CUST0259,4,Quick delivery and friendly driver.,2026-02-20 04:24:00,positive,quick delivery friendly driver
+REV00988,ORD01552,CUST0158,5,Quick delivery and friendly driver.,2026-03-23 02:54:00,positive,quick delivery friendly driver
+REV00989,ORD01554,CUST0222,4,Good value and carefully packed.,2026-02-10 07:49:00,positive,good value carefully packed
+REV00990,ORD01555,CUST0208,4,Food arrived hot and tasted great.,2026-01-25 07:28:00,positive,food arrived hot tasted great
+REV00991,ORD01556,CUST0041,2,Packaging was damaged and support was slow.,2026-03-13 06:37:00,negative,packag damaged support slow
+REV00992,ORD01557,CUST0295,4,Quick delivery and friendly driver.,2026-01-09 20:02:00,positive,quick delivery friendly driver
+REV00993,ORD01558,CUST0050,2,Delivery was late and the food was cold.,2026-01-18 14:21:00,negative,delivery late food cold
+REV00994,ORD01560,CUST0196,3,Order was as expected.,2026-04-01 02:50:00,neutral,order expected
+REV00995,ORD01561,CUST0122,2,Packaging was damaged and support was slow.,2026-02-01 14:10:00,negative,packag damaged support slow
+REV00996,ORD01562,CUST0073,5,Quick delivery and friendly driver.,2026-02-12 21:34:00,positive,quick delivery friendly driver
+REV00997,ORD01563,CUST0278,2,Order was missing an item.,2026-01-31 00:15:00,negative,order miss item
+REV00998,ORD01565,CUST0074,4,Food arrived hot and tasted great.,2026-01-03 15:18:00,positive,food arrived hot tasted great
+REV00999,ORD01566,CUST0298,3,Order was as expected.,2026-02-27 12:36:00,neutral,order expected
+REV01000,ORD01568,CUST0027,3,"Food was okay, delivery was average.",2026-01-31 09:37:00,neutral,food okay delivery average
+REV01001,ORD01573,CUST0141,2,Food quality was disappointing.,2026-01-08 15:19:00,negative,food quality disappoint
+REV01002,ORD01575,CUST0061,4,Quick delivery and friendly driver.,2026-02-03 19:01:00,positive,quick delivery friendly driver
+REV01003,ORD01576,CUST0053,4,Fresh food and accurate order.,2026-01-11 03:57:00,positive,fresh food accurate order
+REV01004,ORD01578,CUST0122,3,"Food was okay, delivery was average.",2026-01-17 09:01:00,neutral,food okay delivery average
+REV01005,ORD01580,CUST0072,2,Packaging was damaged and support was slow.,2026-01-04 20:41:00,negative,packag damaged support slow
+REV01006,ORD01581,CUST0087,4,Fresh food and accurate order.,2026-03-03 02:48:00,positive,fresh food accurate order
+REV01007,ORD01586,CUST0162,1,Food quality was disappointing.,2026-03-30 10:20:00,negative,food quality disappoint
+REV01008,ORD01587,CUST0241,5,Food arrived hot and tasted great.,2026-03-16 22:44:00,positive,food arrived hot tasted great
+REV01009,ORD01588,CUST0191,4,Quick delivery and friendly driver.,2026-01-05 08:15:00,positive,quick delivery friendly driver
+REV01010,ORD01589,CUST0080,5,Good value and carefully packed.,2026-03-08 06:27:00,positive,good value carefully packed
+REV01011,ORD01593,CUST0077,3,"Food was okay, delivery was average.",2026-01-04 02:08:00,neutral,food okay delivery average
+REV01012,ORD01594,CUST0083,2,Delivery was late and the food was cold.,2026-01-07 16:54:00,negative,delivery late food cold
+REV01013,ORD01595,CUST0041,5,Food arrived hot and tasted great.,2026-01-04 03:47:00,positive,food arrived hot tasted great
+REV01014,ORD01596,CUST0008,3,Taste was fine but portion was small.,2026-01-18 07:23:00,neutral,taste fine portion small
+REV01015,ORD01597,CUST0284,5,Food arrived hot and tasted great.,2026-04-01 04:16:00,positive,food arrived hot tasted great
+REV01016,ORD01598,CUST0155,3,"Food was okay, delivery was average.",2026-03-03 02:12:00,neutral,food okay delivery average
+REV01017,ORD01601,CUST0068,4,Food arrived hot and tasted great.,2026-03-28 09:08:00,positive,food arrived hot tasted great
+REV01018,ORD01602,CUST0121,4,Good value and carefully packed.,2026-01-22 21:39:00,positive,good value carefully packed
+REV01019,ORD01603,CUST0255,4,Good value and carefully packed.,2026-03-24 04:58:00,positive,good value carefully packed
+REV01020,ORD01604,CUST0190,3,Taste was fine but portion was small.,2026-01-04 18:30:00,neutral,taste fine portion small
+REV01021,ORD01606,CUST0077,3,Taste was fine but portion was small.,2026-01-08 02:25:00,neutral,taste fine portion small
+REV01022,ORD01607,CUST0011,4,Fresh food and accurate order.,2026-03-17 06:23:00,positive,fresh food accurate order
+REV01023,ORD01608,CUST0026,3,"Food was okay, delivery was average.",2026-01-24 04:11:00,neutral,food okay delivery average
+REV01024,ORD01609,CUST0049,5,Good value and carefully packed.,2026-02-13 14:28:00,positive,good value carefully packed
+REV01025,ORD01610,CUST0236,5,Good value and carefully packed.,2026-02-16 10:02:00,positive,good value carefully packed
+REV01026,ORD01612,CUST0131,3,Taste was fine but portion was small.,2026-02-05 09:15:00,neutral,taste fine portion small
+REV01027,ORD01614,CUST0049,4,Good value and carefully packed.,2026-02-06 18:47:00,positive,good value carefully packed
+REV01028,ORD01615,CUST0064,4,Food arrived hot and tasted great.,2026-01-29 22:30:00,positive,food arrived hot tasted great
+REV01029,ORD01616,CUST0118,4,Food arrived hot and tasted great.,2026-03-07 18:42:00,positive,food arrived hot tasted great
+REV01030,ORD01617,CUST0276,2,Packaging was damaged and support was slow.,2026-03-10 14:51:00,negative,packag damaged support slow
+REV01031,ORD01618,CUST0185,4,Good value and carefully packed.,2026-01-12 06:37:00,positive,good value carefully packed
+REV01032,ORD01623,CUST0069,2,Delivery was late and the food was cold.,2026-01-28 02:42:00,negative,delivery late food cold
+REV01033,ORD01625,CUST0016,5,Fresh food and accurate order.,2026-01-30 22:22:00,positive,fresh food accurate order
+REV01034,ORD01627,CUST0261,5,Quick delivery and friendly driver.,2026-04-02 00:12:00,positive,quick delivery friendly driver
+REV01035,ORD01628,CUST0163,5,Good value and carefully packed.,2026-03-15 10:07:00,positive,good value carefully packed
+REV01036,ORD01629,CUST0092,5,Food arrived hot and tasted great.,2026-02-09 12:41:00,positive,food arrived hot tasted great
+REV01037,ORD01630,CUST0030,5,Food arrived hot and tasted great.,2026-02-19 07:05:00,positive,food arrived hot tasted great
+REV01038,ORD01631,CUST0186,2,Packaging was damaged and support was slow.,2026-02-13 05:47:00,negative,packag damaged support slow
+REV01039,ORD01632,CUST0162,4,Fresh food and accurate order.,2026-03-17 10:02:00,positive,fresh food accurate order
+REV01040,ORD01633,CUST0228,4,Food arrived hot and tasted great.,2026-02-19 17:02:00,positive,food arrived hot tasted great
+REV01041,ORD01635,CUST0039,4,Quick delivery and friendly driver.,2026-02-08 20:31:00,positive,quick delivery friendly driver
+REV01042,ORD01638,CUST0048,5,Food arrived hot and tasted great.,2026-03-06 00:13:00,positive,food arrived hot tasted great
+REV01043,ORD01640,CUST0032,4,Quick delivery and friendly driver.,2026-03-16 14:23:00,positive,quick delivery friendly driver
+REV01044,ORD01641,CUST0219,3,Order was as expected.,2026-03-20 09:42:00,neutral,order expected
+REV01045,ORD01642,CUST0293,4,Fresh food and accurate order.,2026-02-11 14:48:00,positive,fresh food accurate order
+REV01046,ORD01643,CUST0133,4,Food arrived hot and tasted great.,2026-03-27 19:33:00,positive,food arrived hot tasted great
+REV01047,ORD01644,CUST0018,2,Food quality was disappointing.,2026-01-20 13:46:00,negative,food quality disappoint
+REV01048,ORD01646,CUST0057,5,Food arrived hot and tasted great.,2026-01-28 11:15:00,positive,food arrived hot tasted great
+REV01049,ORD01647,CUST0159,1,Delivery was late and the food was cold.,2026-02-21 18:52:00,negative,delivery late food cold
+REV01050,ORD01648,CUST0296,5,Quick delivery and friendly driver.,2026-01-28 12:32:00,positive,quick delivery friendly driver
+REV01051,ORD01649,CUST0224,3,Taste was fine but portion was small.,2026-02-10 19:02:00,neutral,taste fine portion small
+REV01052,ORD01651,CUST0247,4,Good value and carefully packed.,2026-03-08 11:19:00,positive,good value carefully packed
+REV01053,ORD01652,CUST0049,5,Food arrived hot and tasted great.,2026-01-10 07:22:00,positive,food arrived hot tasted great
+REV01054,ORD01653,CUST0225,2,Delivery was late and the food was cold.,2026-03-19 10:46:00,negative,delivery late food cold
+REV01055,ORD01654,CUST0187,4,Food arrived hot and tasted great.,2026-03-25 08:18:00,positive,food arrived hot tasted great
+REV01056,ORD01655,CUST0087,4,Good value and carefully packed.,2026-02-20 16:02:00,positive,good value carefully packed
+REV01057,ORD01656,CUST0128,4,Quick delivery and friendly driver.,2026-02-19 06:06:00,positive,quick delivery friendly driver
+REV01058,ORD01657,CUST0036,4,Food arrived hot and tasted great.,2026-03-06 23:57:00,positive,food arrived hot tasted great
+REV01059,ORD01662,CUST0202,3,Taste was fine but portion was small.,2026-02-01 12:02:00,neutral,taste fine portion small
+REV01060,ORD01663,CUST0152,4,Fresh food and accurate order.,2026-03-11 03:38:00,positive,fresh food accurate order
+REV01061,ORD01664,CUST0152,3,Order was as expected.,2026-03-15 04:41:00,neutral,order expected
+REV01062,ORD01665,CUST0175,5,Food arrived hot and tasted great.,2026-01-22 18:40:00,positive,food arrived hot tasted great
+REV01063,ORD01666,CUST0258,4,Food arrived hot and tasted great.,2026-02-25 13:39:00,positive,food arrived hot tasted great
+REV01064,ORD01667,CUST0119,3,Order was as expected.,2026-02-17 20:29:00,neutral,order expected
+REV01065,ORD01668,CUST0250,3,Order was as expected.,2026-01-27 11:07:00,neutral,order expected
+REV01066,ORD01669,CUST0237,2,Food quality was disappointing.,2026-02-25 22:39:00,negative,food quality disappoint
+REV01067,ORD01670,CUST0289,5,Food arrived hot and tasted great.,2026-04-03 08:09:00,positive,food arrived hot tasted great
+REV01068,ORD01672,CUST0240,2,Order was missing an item.,2026-03-30 02:51:00,negative,order miss item
+REV01069,ORD01673,CUST0075,3,"Food was okay, delivery was average.",2026-03-22 00:52:00,neutral,food okay delivery average
+REV01070,ORD01674,CUST0233,4,Food arrived hot and tasted great.,2026-02-19 15:26:00,positive,food arrived hot tasted great
+REV01071,ORD01675,CUST0221,3,Taste was fine but portion was small.,2026-02-27 21:39:00,neutral,taste fine portion small
+REV01072,ORD01676,CUST0087,4,Food arrived hot and tasted great.,2026-02-07 05:27:00,positive,food arrived hot tasted great
+REV01073,ORD01677,CUST0204,5,Food arrived hot and tasted great.,2026-01-13 14:56:00,positive,food arrived hot tasted great
+REV01074,ORD01678,CUST0076,3,Order was as expected.,2026-02-22 10:23:00,neutral,order expected
+REV01075,ORD01679,CUST0157,2,Order was missing an item.,2026-03-16 11:19:00,negative,order miss item
+REV01076,ORD01680,CUST0240,4,Good value and carefully packed.,2026-01-25 19:11:00,positive,good value carefully packed
+REV01077,ORD01686,CUST0003,2,Order was missing an item.,2026-02-10 11:01:00,negative,order miss item
+REV01078,ORD01688,CUST0245,2,Food quality was disappointing.,2026-03-24 00:58:00,negative,food quality disappoint
+REV01079,ORD01692,CUST0118,4,Fresh food and accurate order.,2026-02-08 15:43:00,positive,fresh food accurate order
+REV01080,ORD01694,CUST0107,3,"Food was okay, delivery was average.",2026-02-25 23:55:00,neutral,food okay delivery average
+REV01081,ORD01696,CUST0198,3,"Food was okay, delivery was average.",2026-03-30 03:42:00,neutral,food okay delivery average
+REV01082,ORD01698,CUST0022,2,Delivery was late and the food was cold.,2026-01-05 16:05:00,negative,delivery late food cold
+REV01083,ORD01699,CUST0296,4,Quick delivery and friendly driver.,2026-02-25 00:57:00,positive,quick delivery friendly driver
+REV01084,ORD01700,CUST0067,4,Fresh food and accurate order.,2026-03-12 20:24:00,positive,fresh food accurate order
+REV01085,ORD01701,CUST0029,3,"Food was okay, delivery was average.",2026-02-18 16:34:00,neutral,food okay delivery average
+REV01086,ORD01702,CUST0180,5,Quick delivery and friendly driver.,2026-02-10 15:23:00,positive,quick delivery friendly driver
+REV01087,ORD01703,CUST0124,4,Fresh food and accurate order.,2026-03-17 21:27:00,positive,fresh food accurate order
+REV01088,ORD01704,CUST0185,5,Fresh food and accurate order.,2026-03-01 00:33:00,positive,fresh food accurate order
+REV01089,ORD01705,CUST0263,3,Order was as expected.,2026-03-05 07:45:00,neutral,order expected
+REV01090,ORD01706,CUST0030,4,Good value and carefully packed.,2026-02-11 18:27:00,positive,good value carefully packed
+REV01091,ORD01708,CUST0155,4,Quick delivery and friendly driver.,2026-02-20 17:14:00,positive,quick delivery friendly driver
+REV01092,ORD01711,CUST0115,3,Taste was fine but portion was small.,2026-03-06 15:41:00,neutral,taste fine portion small
+REV01093,ORD01712,CUST0184,4,Food arrived hot and tasted great.,2026-01-15 04:07:00,positive,food arrived hot tasted great
+REV01094,ORD01714,CUST0145,4,Fresh food and accurate order.,2026-01-27 00:33:00,positive,fresh food accurate order
+REV01095,ORD01715,CUST0266,5,Quick delivery and friendly driver.,2026-03-30 09:55:00,positive,quick delivery friendly driver
+REV01096,ORD01716,CUST0234,4,Good value and carefully packed.,2026-02-14 02:50:00,positive,good value carefully packed
+REV01097,ORD01717,CUST0091,3,Taste was fine but portion was small.,2026-03-27 16:50:00,neutral,taste fine portion small
+REV01098,ORD01718,CUST0075,4,Food arrived hot and tasted great.,2026-03-24 06:18:00,positive,food arrived hot tasted great
+REV01099,ORD01719,CUST0232,3,Order was as expected.,2026-03-13 23:36:00,neutral,order expected
+REV01100,ORD01721,CUST0102,5,Good value and carefully packed.,2026-02-24 20:22:00,positive,good value carefully packed
+REV01101,ORD01723,CUST0182,5,Food arrived hot and tasted great.,2026-01-19 11:53:00,positive,food arrived hot tasted great
+REV01102,ORD01725,CUST0198,3,Taste was fine but portion was small.,2026-02-19 21:38:00,neutral,taste fine portion small
+REV01103,ORD01726,CUST0281,4,Quick delivery and friendly driver.,2026-03-18 21:16:00,positive,quick delivery friendly driver
+REV01104,ORD01728,CUST0285,3,Order was as expected.,2026-02-21 12:15:00,neutral,order expected
+REV01105,ORD01732,CUST0276,4,Fresh food and accurate order.,2026-03-18 18:19:00,positive,fresh food accurate order
+REV01106,ORD01735,CUST0170,4,Good value and carefully packed.,2026-02-08 06:49:00,positive,good value carefully packed
+REV01107,ORD01738,CUST0143,3,Taste was fine but portion was small.,2026-04-03 05:18:00,neutral,taste fine portion small
+REV01108,ORD01739,CUST0017,4,Good value and carefully packed.,2026-02-11 21:49:00,positive,good value carefully packed
+REV01109,ORD01741,CUST0105,5,Good value and carefully packed.,2026-01-10 18:32:00,positive,good value carefully packed
+REV01110,ORD01742,CUST0246,3,Order was as expected.,2026-03-25 21:53:00,neutral,order expected
+REV01111,ORD01744,CUST0226,4,Food arrived hot and tasted great.,2026-02-05 01:16:00,positive,food arrived hot tasted great
+REV01112,ORD01745,CUST0010,2,Order was missing an item.,2026-03-17 09:15:00,negative,order miss item
+REV01113,ORD01746,CUST0253,5,Quick delivery and friendly driver.,2026-03-29 01:37:00,positive,quick delivery friendly driver
+REV01114,ORD01747,CUST0119,5,Good value and carefully packed.,2026-02-14 14:16:00,positive,good value carefully packed
+REV01115,ORD01748,CUST0125,5,Food arrived hot and tasted great.,2026-02-17 14:59:00,positive,food arrived hot tasted great
+REV01116,ORD01749,CUST0284,5,Fresh food and accurate order.,2026-01-09 09:14:00,positive,fresh food accurate order
+REV01117,ORD01750,CUST0261,5,Food arrived hot and tasted great.,2026-03-31 02:21:00,positive,food arrived hot tasted great
+REV01118,ORD01752,CUST0108,4,Quick delivery and friendly driver.,2026-01-06 08:20:00,positive,quick delivery friendly driver
+REV01119,ORD01753,CUST0225,2,Packaging was damaged and support was slow.,2026-02-12 14:42:00,negative,packag damaged support slow
+REV01120,ORD01759,CUST0224,3,Order was as expected.,2026-03-17 13:53:00,neutral,order expected
+REV01121,ORD01760,CUST0221,4,Fresh food and accurate order.,2026-02-24 16:39:00,positive,fresh food accurate order
+REV01122,ORD01761,CUST0266,3,"Food was okay, delivery was average.",2026-01-22 13:07:00,neutral,food okay delivery average
+REV01123,ORD01765,CUST0160,3,"Food was okay, delivery was average.",2026-01-14 21:36:00,neutral,food okay delivery average
+REV01124,ORD01768,CUST0240,4,Quick delivery and friendly driver.,2026-01-31 17:27:00,positive,quick delivery friendly driver
+REV01125,ORD01769,CUST0074,3,Taste was fine but portion was small.,2026-03-24 23:47:00,neutral,taste fine portion small
+REV01126,ORD01771,CUST0070,3,"Food was okay, delivery was average.",2026-02-20 23:15:00,neutral,food okay delivery average
+REV01127,ORD01772,CUST0123,4,Quick delivery and friendly driver.,2026-02-20 15:22:00,positive,quick delivery friendly driver
+REV01128,ORD01773,CUST0009,4,Fresh food and accurate order.,2026-03-22 17:31:00,positive,fresh food accurate order
+REV01129,ORD01774,CUST0103,5,Quick delivery and friendly driver.,2026-02-14 05:04:00,positive,quick delivery friendly driver
+REV01130,ORD01775,CUST0288,4,Good value and carefully packed.,2026-01-25 06:32:00,positive,good value carefully packed
+REV01131,ORD01778,CUST0033,2,Packaging was damaged and support was slow.,2026-03-04 19:06:00,negative,packag damaged support slow
+REV01132,ORD01779,CUST0191,3,Taste was fine but portion was small.,2026-02-16 09:15:00,neutral,taste fine portion small
+REV01133,ORD01782,CUST0279,3,Taste was fine but portion was small.,2026-03-30 17:43:00,neutral,taste fine portion small
+REV01134,ORD01783,CUST0160,4,Fresh food and accurate order.,2026-03-31 18:55:00,positive,fresh food accurate order
+REV01135,ORD01784,CUST0031,3,Order was as expected.,2026-01-15 12:23:00,neutral,order expected
+REV01136,ORD01785,CUST0143,3,Taste was fine but portion was small.,2026-01-12 07:12:00,neutral,taste fine portion small
+REV01137,ORD01786,CUST0037,4,Quick delivery and friendly driver.,2026-01-25 23:42:00,positive,quick delivery friendly driver
+REV01138,ORD01788,CUST0019,5,Good value and carefully packed.,2026-02-15 08:33:00,positive,good value carefully packed
+REV01139,ORD01790,CUST0094,4,Quick delivery and friendly driver.,2026-02-28 04:58:00,positive,quick delivery friendly driver
+REV01140,ORD01791,CUST0061,2,Food quality was disappointing.,2026-02-22 18:54:00,negative,food quality disappoint
+REV01141,ORD01792,CUST0006,5,Fresh food and accurate order.,2026-01-29 08:04:00,positive,fresh food accurate order
+REV01142,ORD01793,CUST0267,3,Taste was fine but portion was small.,2026-01-31 23:07:00,neutral,taste fine portion small
+REV01143,ORD01795,CUST0244,4,Fresh food and accurate order.,2026-02-17 17:31:00,positive,fresh food accurate order
+REV01144,ORD01796,CUST0018,4,Fresh food and accurate order.,2026-01-28 05:36:00,positive,fresh food accurate order
+REV01145,ORD01797,CUST0105,3,"Food was okay, delivery was average.",2026-01-29 07:43:00,neutral,food okay delivery average
+REV01146,ORD01799,CUST0174,4,Fresh food and accurate order.,2026-03-16 22:04:00,positive,fresh food accurate order
+REV01147,ORD01800,CUST0039,5,Fresh food and accurate order.,2026-03-27 12:48:00,positive,fresh food accurate order
