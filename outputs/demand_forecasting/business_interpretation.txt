@@ -1,0 +1,3 @@
+Observed hourly rows: 2158
+Peak average hour: 2
+Use forecasts as planning estimates, not guaranteed order counts.

@@ -1,0 +1,6 @@
+Area,Evidence needed,Action
+Customer value,"Compare spend, order frequency and cluster sizes in customer profiles.",Target retention or loyalty offers only to groups whose measured behavior supports them.
+Restaurant operations,"Compare rating, preparation time and cancellation rate by restaurant cluster.",Investigate groups with weak service KPIs and confirm causes using restaurant-level records.
+Customer experience,"Review negative-review counts, frequent terms and sample comments.",Prioritize recurring issues only after checking the original feedback context.
+Delivery delays,"Use Day 4 test metrics and feature importance, not training performance alone.",Pilot delay-reduction actions and monitor errors on new deliveries.
+Rider capacity,Use Day 5 forecast peaks and compare with actual demand.,"Consider extra capacity during predicted peak periods, then evaluate impact on delays and cost."

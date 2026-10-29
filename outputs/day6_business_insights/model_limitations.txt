@@ -1,0 +1,6 @@
+- The project datasets are synthetic and are for learning/demo purposes.
+- Forecast quality depends on the historical time span and data quality.
+- Time-series data must be split chronologically to avoid leakage.
+- Rating-derived sentiment labels are proxies, not human-annotated ground truth.
+- Feature importance and correlations do not prove causation.
+- Tip prediction is not complete unless a tip target and separately evaluated model are available.
