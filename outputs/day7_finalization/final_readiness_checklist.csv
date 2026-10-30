@@ -1,0 +1,18 @@
+item,status
+customers.csv,Available
+restaurants.csv,Available
+orders.csv,Available
+deliveries.csv,Available
+reviews.csv,Available
+payments.csv,Available
+drivers.csv,Available
+Day 2 customer segmentation notebook,Available
+Day 2 restaurant segmentation notebook,Available
+Day 3 NLP notebook,Not found
+Day 4 delivery prediction notebook,Not found
+Day 5 demand forecasting notebook,Not found
+Day 6 business insights notebook,Not found
+Data dictionary,Available
+Project README,Available
+Python requirements,Available
+Git ignore rules,Available

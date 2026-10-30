@@ -1,0 +1,3 @@
+component,status,source_file
+Delivery regression comparison,Available,outputs/delivery_time_prediction/regression_model_comparison.csv
+Demand forecasting comparison,Available,outputs/demand_forecasting/model_comparison.csv

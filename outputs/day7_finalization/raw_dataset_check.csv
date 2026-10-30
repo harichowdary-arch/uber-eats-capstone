@@ -1,0 +1,8 @@
+file,status,rows,columns
+customers.csv,Available,300,5
+restaurants.csv,Available,45,6
+orders.csv,Available,1800,8
+deliveries.csv,Available,1800,9
+reviews.csv,Available,1147,6
+payments.csv,Available,1800,5
+drivers.csv,Available,70,4

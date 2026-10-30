@@ -1,0 +1,11 @@
+deliverable,status,path
+Day 2 customer segmentation notebook,Available,notebooks/customer_segmentation.ipynb
+Day 2 restaurant segmentation notebook,Available,notebooks/restaurant_segmentation.ipynb
+Day 3 NLP notebook,Not found,notebooks/day3_customer_feedback_nlp.ipynb
+Day 4 delivery prediction notebook,Not found,notebooks/day4_delivery_time_prediction.ipynb
+Day 5 demand forecasting notebook,Not found,notebooks/day5_hourly_demand_forecasting.ipynb
+Day 6 business insights notebook,Not found,notebooks/day6_end_to_end_ml_pipeline_business_insights.ipynb
+Data dictionary,Available,docs/data_dictionary.md
+Project README,Available,README.md
+Python requirements,Available,requirements.txt
+Git ignore rules,Available,.gitignore

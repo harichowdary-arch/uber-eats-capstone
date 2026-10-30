@@ -1,0 +1,6 @@
+file,status
+outputs/demand_forecasting/next_24_hour_demand_forecast.csv,Available
+outputs/demand_forecasting/forecast_comparison.csv,Not found
+outputs/demand_forecasting/model_comparison.csv,Available
+models/arima_demand_model.joblib,Not found
+models/prophet_demand_model.joblib,Not found
